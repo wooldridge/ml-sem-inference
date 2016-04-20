@@ -1,0 +1,19 @@
+{
+  "name": "ml-sem-inference",
+  "version": "0.0.1",
+  "description": "MarkLogic semantic inferencing example",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wooldridge/ml-sem-inference.git"
+  },
+  "author": "Mike Wooldridge",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wooldridge/ml-sem-inference/issues"
+  },
+  "homepage": "https://github.com/wooldridge/ml-sem-inference",
+  "dependencies": {
+    "marklogic": "^1.0.5",
+    "request-promise": "^3.0.0"
+  }
+}

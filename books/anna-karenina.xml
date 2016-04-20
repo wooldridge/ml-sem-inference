@@ -1,0 +1,30 @@
+<book>
+  <title>Anna Karenina</title>
+  <creator>Leo Tolstoy</creator>
+  <lang>Russian</lang>
+  <genre>realist novel</genre>
+  <date>1877</date>
+  <url>https://en.wikipedia.org/wiki/Anna_Karenina</url>
+  <sem:triples xmlns:sem="http://marklogic.com/semantics" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+    <sem:triple>
+     <sem:subject>http://example.org/person/Leo_Tolstoy</sem:subject>
+     <sem:predicate>http://example.org/ontology/creator</sem:predicate>
+     <sem:object>http://example.org/book/Anna_Karenina</sem:object>
+    </sem:triple>
+    <sem:triple>
+     <sem:subject>http://example.org/person/Leo_Tolstoy</sem:subject>
+     <sem:predicate>http://example.org/ontology/label</sem:predicate>
+     <sem:object rdf:datatype="xsd:string">Leo Tolstoy</sem:object>
+    </sem:triple>
+    <sem:triple>
+     <sem:subject>http://example.org/book/Anna_Karenina</sem:subject>
+     <sem:predicate>http://example.org/ontology/label</sem:predicate>
+     <sem:object rdf:datatype="xsd:string">Anna Karenina</sem:object>
+    </sem:triple>
+    <sem:triple>
+      <sem:subject>http://example.org/ontology/creator</sem:subject>
+      <sem:predicate>http://www.w3.org/2002/07/owl/equivalentProperty</sem:predicate>
+      <sem:object>http://example.org/ontology/author</sem:object>
+    </sem:triple>
+  </sem:triples>
+</book>
