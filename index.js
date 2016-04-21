@@ -9,10 +9,10 @@ var db = marklogic.createDatabaseClient({
   authType: 'digest'
 });
 
-var query  = 'SELECT ?s ';
+var query  = 'SELECT ?label ';
     query += 'WHERE { ';
     query += '   ?s <http://example.org/ontology/creator> ?o .';
-    query += '   ?s ?p ?o .';
+    query += '   ?s <http://example.org/ontology/label> ?label .';
     query += '}';
 
 db.graphs.sparql({
@@ -20,7 +20,7 @@ db.graphs.sparql({
   query: query,
   rulesets: 'equivalentProperty.rules'
 }).result(function (result) {
-  console.log(JSON.stringify(result.results, null, 2));
+  console.log(JSON.stringify(result, null, 2));
 }, function(error) {
   console.log(JSON.stringify(error, null, 2));
 });;

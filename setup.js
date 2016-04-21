@@ -102,7 +102,7 @@ function loadData() {
 
   var options = {
     method: 'PUT',
-    uri: 'http://' + config.host + ':8554/v1/documents?database=' + config.databaseSetup["database-name"] + '&uri=/' + currFile,
+    uri: 'http://' + config.host + ':' + config.restSetup["rest-api"]["port"] + '/v1/documents?database=' + config.databaseSetup["database-name"] + '&uri=/' + currFile,
     body: buffer,
     auth: config.auth
   };
@@ -125,7 +125,40 @@ function loadTriples() {
 
   var triples = {
     'http://example.org/ontology/creator' : {
-      'http://www.w3.org/2002/07/owl/equivalentProperty' : [ {
+      'http://www.w3.org/2002/07/owl#equivalentProperty' : [ {
+        'type' : 'uri',
+        'value' : 'http://example.org/ontology/author'
+      } ]
+    }
+  };
+
+  var db = marklogic.createDatabaseClient({
+    host: config.host,
+    port: config.database.port,
+    user: config.auth.user,
+    password: config.auth.pass,
+    authType: 'digest'
+  });
+
+  db.graphs.write('application/rdf+json', triples).result(
+    function(response) {
+      if (response.defaultGraph) {
+        console.log('Loaded into default graph');
+      } else {
+        console.log('Loaded into graph ' + response.graph);
+      };
+      //loadTriples2();
+    },
+    function(error) { console.log(JSON.stringify(error)); }
+  );
+
+}
+
+function loadTriples2() {
+
+  var triples = {
+    'http://example.org/ontology/creator' : {
+      'http://www.w3.org/2000/01/rdf-schema#subPropertyOf' : [ {
         'type' : 'uri',
         'value' : 'http://example.org/ontology/author'
       } ]

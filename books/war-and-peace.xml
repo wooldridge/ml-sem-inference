@@ -23,9 +23,9 @@
      <sem:object rdf:datatype="xsd:string">War and Peace</sem:object>
     </sem:triple>
     <sem:triple>
-      <sem:subject>http://example.org/ontology/creator</sem:subject>
+      <sem:subject>http://example.org/ontology/author</sem:subject>
       <sem:predicate>http://www.w3.org/2002/07/owl/equivalentProperty</sem:predicate>
-      <sem:object>http://example.org/ontology/author</sem:object>
+      <sem:object>http://example.org/ontology/creator</sem:object>
     </sem:triple>
   </sem:triples>
 </book>
