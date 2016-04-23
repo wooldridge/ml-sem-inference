@@ -1,0 +1,1450 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books>
+    <li class="booklink">
+        <a class="link" href="https://www.gutenberg.org/ebooks/1342" accesskey="3">
+            <span class="cell leftcell without-cover">
+                <span class="icon-wrapper">
+                    <span class="icon icon_book"></span>
+                </span>
+            </span>
+            <span class="cell content">
+                <span class="title">Pride and Prejudice</span>
+                <span class="subtitle">Jane Austen</span>
+                <span class="extra">24951 downloads</span>
+            </span>
+            <span class="hstrut"></span>
+        </a>
+    </li>
+    <li class="booklink">
+        <a class="link" href="https://www.gutenberg.org/ebooks/11" accesskey="4">
+            <span class="cell leftcell without-cover">
+                <span class="icon-wrapper">
+                    <span class="icon icon_book"></span>
+                </span>
+            </span>
+            <span class="cell content">
+                <span class="title">Alice's Adventures in Wonderland</span>
+                <span class="subtitle">Lewis Carroll</span>
+                <span class="extra">17135 downloads</span>
+            </span>
+            <span class="hstrut"></span>
+        </a>
+    </li>
+    <li class="booklink">
+        <a class="link" href="https://www.gutenberg.org/ebooks/1952" accesskey="5">
+            <span class="cell leftcell without-cover">
+                <span class="icon-wrapper">
+                    <span class="icon icon_book"></span>
+                </span>
+            </span>
+            <span class="cell content">
+                <span class="title">The Yellow Wallpaper</span>
+                <span class="subtitle">Charlotte Perkins Gilman</span>
+                <span class="extra">13413 downloads</span>
+            </span>
+            <span class="hstrut"></span>
+        </a>
+    </li>
+    <li class="booklink">
+        <a class="link" href="https://www.gutenberg.org/ebooks/844" accesskey="6">
+            <span class="cell leftcell without-cover">
+                <span class="icon-wrapper">
+                    <span class="icon icon_book"></span>
+                </span>
+            </span>
+            <span class="cell content">
+                <span class="title">The Importance of Being Earnest: A Trivial Comedy for Serious People</span>
+                <span class="subtitle">Oscar Wilde</span>
+                <span class="extra">12116 downloads</span>
+            </span>
+            <span class="hstrut"></span>
+        </a>
+    </li>
+    <li class="booklink">
+        <a class="link" href="https://www.gutenberg.org/ebooks/84" accesskey="7">
+            <span class="cell leftcell without-cover">
+                <span class="icon-wrapper">
+                    <span class="icon icon_book"></span>
+                </span>
+            </span>
+            <span class="cell content">
+                <span class="title">Frankenstein; Or, The Modern Prometheus</span>
+                <span class="subtitle">Mary Wollstonecraft Shelley</span>
+                <span class="extra">12011 downloads</span>
+            </span>
+            <span class="hstrut"></span>
+        </a>
+    </li>
+    <li class="booklink">
+        <a class="link" href="https://www.gutenberg.org/ebooks/76" accesskey="8">
+            <span class="cell leftcell with-cover"></span>
+            <span class="cell content">
+                <span class="title">Adventures of Huckleberry Finn</span>
+                <span class="subtitle">Mark Twain</span>
+                <span class="extra">11408 downloads</span>
+            </span>
+            <span class="hstrut"></span>
+        </a>
+    </li>
+    <li class="booklink">
+        <a class="link" href="https://www.gutenberg.org/ebooks/5200" accesskey="9">
+            <span class="cell leftcell without-cover">
+                <span class="icon-wrapper">
+                    <span class="icon icon_book"></span>
+                </span>
+            </span>
+            <span class="cell content">
+                <span class="title">Metamorphosis</span>
+                <span class="subtitle">Franz Kafka</span>
+                <span class="extra">11030 downloads</span>
+            </span>
+            <span class="hstrut"></span>
+        </a>
+    </li>
+    <li class="booklink">
+        <a class="link" href="https://www.gutenberg.org/ebooks/98" accesskey="0">
+            <span class="cell leftcell without-cover">
+                <span class="icon-wrapper">
+                    <span class="icon icon_book"></span>
+                </span>
+            </span>
+            <span class="cell content">
+                <span class="title">A Tale of Two Cities</span>
+                <span class="subtitle">Charles Dickens</span>
+                <span class="extra">9532 downloads</span>
+            </span>
+            <span class="hstrut"></span>
+        </a>
+    </li>
+    <li class="booklink">
+        <a class="link" href="https://www.gutenberg.org/ebooks/1661" accesskey="1">
+            <span class="cell leftcell without-cover">
+                <span class="icon-wrapper">
+                    <span class="icon icon_book"></span>
+                </span>
+            </span>
+            <span class="cell content">
+                <span class="title">The Adventures of Sherlock Holmes</span>
+                <span class="subtitle">Arthur Conan Doyle</span>
+                <span class="extra">9218 downloads</span>
+            </span>
+            <span class="hstrut"></span>
+        </a>
+    </li>
+    <li class="booklink">
+        <a class="link" href="https://www.gutenberg.org/ebooks/74" accesskey="2">
+            <span class="cell leftcell with-cover"></span>
+            <span class="cell content">
+                <span class="title">The Adventures of Tom Sawyer</span>
+                <span class="subtitle">Mark Twain</span>
+                <span class="extra">9058 downloads</span>
+            </span>
+            <span class="hstrut"></span>
+        </a>
+    </li>
+    <li class="booklink">
+        <a class="link" href="https://www.gutenberg.org/ebooks/236" accesskey="3">
+            <span class="cell leftcell without-cover">
+                <span class="icon-wrapper">
+                    <span class="icon icon_book"></span>
+                </span>
+            </span>
+            <span class="cell content">
+                <span class="title">The Jungle Book</span>
+                <span class="subtitle">Rudyard Kipling</span>
+                <span class="extra">8994 downloads</span>
+            </span>
+            <span class="hstrut"></span>
+        </a>
+    </li>
+    <li class="booklink">
+        <a class="link" href="https://www.gutenberg.org/ebooks/2542" accesskey="4">
+            <span class="cell leftcell without-cover">
+                <span class="icon-wrapper">
+                    <span class="icon icon_book"></span>
+                </span>
+            </span>
+            <span class="cell content">
+                <span class="title">A Doll's House : a play</span>
+                <span class="subtitle">Henrik Ibsen</span>
+                <span class="extra">8796 downloads</span>
+            </span>
+            <span class="hstrut"></span>
+        </a>
+    </li>
+    <li class="booklink">
+        <a class="link" href="https://www.gutenberg.org/ebooks/23" accesskey="5">
+            <span class="cell leftcell without-cover">
+                <span class="icon-wrapper">
+                    <span class="icon icon_book"></span>
+                </span>
+            </span>
+            <span class="cell content">
+                <span class="title">Narrative of the Life of Frederick Douglass, an American Slave</span>
+                <span class="subtitle">Frederick Douglass</span>
+                <span class="extra">8524 downloads</span>
+            </span>
+            <span class="hstrut"></span>
+        </a>
+    </li>
+    <li class="booklink">
+        <a class="link" href="https://www.gutenberg.org/ebooks/12116" accesskey="6">
+            <span class="cell leftcell without-cover">
+                <span class="icon-wrapper">
+                    <span class="icon icon_book"></span>
+                </span>
+            </span>
+            <span class="cell content">
+                <span class="title">Struwwelpeter: Merry Stories and Funny Pictures</span>
+                <span class="subtitle">Heinrich Hoffmann</span>
+                <span class="extra">8490 downloads</span>
+            </span>
+            <span class="hstrut"></span>
+        </a>
+    </li>
+    <li class="booklink">
+        <a class="link" href="https://www.gutenberg.org/ebooks/345" accesskey="7">
+            <span class="cell leftcell with-cover"></span>
+            <span class="cell content">
+                <span class="title">Dracula</span>
+                <span class="subtitle">Bram Stoker</span>
+                <span class="extra">7981 downloads</span>
+            </span>
+            <span class="hstrut"></span>
+        </a>
+    </li>
+    <li class="booklink">
+        <a class="link" href="https://www.gutenberg.org/ebooks/2701" accesskey="8">
+            <span class="cell leftcell without-cover">
+                <span class="icon-wrapper">
+                    <span class="icon icon_book"></span>
+                </span>
+            </span>
+            <span class="cell content">
+                <span class="title">Moby Dick; Or, The Whale</span>
+                <span class="subtitle">Herman Melville</span>
+                <span class="extra">7951 downloads</span>
+            </span>
+            <span class="hstrut"></span>
+        </a>
+    </li>
+    <li class="booklink">
+        <a class="link" href="https://www.gutenberg.org/ebooks/1400" accesskey="9">
+            <span class="cell leftcell without-cover">
+                <span class="icon-wrapper">
+                    <span class="icon icon_book"></span>
+                </span>
+            </span>
+            <span class="cell content">
+                <span class="title">Great Expectations</span>
+                <span class="subtitle">Charles Dickens</span>
+                <span class="extra">7596 downloads</span>
+            </span>
+            <span class="hstrut"></span>
+        </a>
+    </li>
+    <li class="booklink">
+        <a class="link" href="https://www.gutenberg.org/ebooks/4300" accesskey="0">
+            <span class="cell leftcell without-cover">
+                <span class="icon-wrapper">
+                    <span class="icon icon_book"></span>
+                </span>
+            </span>
+            <span class="cell content">
+                <span class="title">Ulysses</span>
+                <span class="subtitle">James Joyce</span>
+                <span class="extra">7452 downloads</span>
+            </span>
+            <span class="hstrut"></span>
+        </a>
+    </li>
+    <li class="booklink">
+        <a class="link" href="https://www.gutenberg.org/ebooks/174" accesskey="1">
+            <span class="cell leftcell without-cover">
+                <span class="icon-wrapper">
+                    <span class="icon icon_book"></span>
+                </span>
+            </span>
+            <span class="cell content">
+                <span class="title">The Picture of Dorian Gray</span>
+                <span class="subtitle">Oscar Wilde</span>
+                <span class="extra">7286 downloads</span>
+            </span>
+            <span class="hstrut"></span>
+        </a>
+    </li>
+    <li class="booklink">
+        <a class="link" href="https://www.gutenberg.org/ebooks/1232" accesskey="2">
+            <span class="cell leftcell without-cover">
+                <span class="icon-wrapper">
+                    <span class="icon icon_book"></span>
+                </span>
+            </span>
+            <span class="cell content">
+                <span class="title">Il Principe. English</span>
+                <span class="subtitle">Niccolo Machiavelli</span>
+                <span class="extra">7242 downloads</span>
+            </span>
+            <span class="hstrut"></span>
+        </a>
+    </li>
+    <li class="booklink">
+        <a class="link" href="https://www.gutenberg.org/ebooks/27827" accesskey="3">
+            <span class="cell leftcell without-cover">
+                <span class="icon-wrapper">
+                    <span class="icon icon_book"></span>
+                </span>
+            </span>
+            <span class="cell content">
+                <span class="title">The Kama Sutra of Vatsyayana
+</span>
+                <span class="subtitle">Vatsyayana</span>
+                <span class="extra">7113 downloads</span>
+            </span>
+            <span class="hstrut"></span>
+        </a>
+    </li>
+    <li class="booklink">
+        <a class="link" href="https://www.gutenberg.org/ebooks/158" accesskey="4">
+            <span class="cell leftcell without-cover">
+                <span class="icon-wrapper">
+                    <span class="icon icon_book"></span>
+                </span>
+            </span>
+            <span class="cell content">
+                <span class="title">Emma</span>
+                <span class="subtitle">Jane Austen</span>
+                <span class="extra">6925 downloads</span>
+            </span>
+            <span class="hstrut"></span>
+        </a>
+    </li>
+    <li class="booklink">
+        <a class="link" href="https://www.gutenberg.org/ebooks/2600" accesskey="5">
+            <span class="cell leftcell without-cover">
+                <span class="icon-wrapper">
+                    <span class="icon icon_book"></span>
+                </span>
+            </span>
+            <span class="cell content">
+                <span class="title">War and Peace</span>
+                <span class="subtitle">graf Leo Tolstoy</span>
+                <span class="extra">6867 downloads</span>
+            </span>
+            <span class="hstrut"></span>
+        </a>
+    </li>
+    <li class="booklink">
+        <a class="link" href="https://www.gutenberg.org/ebooks/1080" accesskey="6">
+            <span class="cell leftcell without-cover">
+                <span class="icon-wrapper">
+                    <span class="icon icon_book"></span>
+                </span>
+            </span>
+            <span class="cell content">
+                <span class="title">A Modest Proposal
+</span>
+                <span class="subtitle">Jonathan Swift</span>
+                <span class="extra">6705 downloads</span>
+            </span>
+            <span class="hstrut"></span>
+        </a>
+    </li>
+    <li class="booklink">
+        <a class="link" href="https://www.gutenberg.org/ebooks/1322" accesskey="7">
+            <span class="cell leftcell without-cover">
+                <span class="icon-wrapper">
+                    <span class="icon icon_book"></span>
+                </span>
+            </span>
+            <span class="cell content">
+                <span class="title">Leaves of Grass</span>
+                <span class="subtitle">Walt Whitman</span>
+                <span class="extra">6381 downloads</span>
+            </span>
+            <span class="hstrut"></span>
+        </a>
+    </li>
+    <li class="booklink">
+        <a class="link" href="https://www.gutenberg.org/ebooks/2591" accesskey="1">
+            <span class="cell leftcell without-cover">
+                <span class="icon-wrapper">
+                    <span class="icon icon_book"></span>
+                </span>
+            </span>
+            <span class="cell content">
+                <span class="title">Grimms' Fairy Tales</span>
+                <span class="subtitle">Jacob Grimm and Wilhelm Grimm</span>
+                <span class="extra">6242 downloads</span>
+            </span>
+            <span class="hstrut"></span>
+        </a>
+    </li>
+    <li class="booklink">
+        <a class="link" href="https://www.gutenberg.org/ebooks/1260" accesskey="2">
+            <span class="cell leftcell without-cover">
+                <span class="icon-wrapper">
+                    <span class="icon icon_book"></span>
+                </span>
+            </span>
+            <span class="cell content">
+                <span class="title">Jane Eyre: An Autobiography</span>
+                <span class="subtitle">Charlotte Bronte</span>
+                <span class="extra">5844 downloads</span>
+            </span>
+            <span class="hstrut"></span>
+        </a>
+    </li>
+    <li class="booklink">
+        <a class="link" href="https://www.gutenberg.org/ebooks/2814" accesskey="3">
+            <span class="cell leftcell without-cover">
+                <span class="icon-wrapper">
+                    <span class="icon icon_book"></span>
+                </span>
+            </span>
+            <span class="cell content">
+                <span class="title">Dubliners</span>
+                <span class="subtitle">James Joyce</span>
+                <span class="extra">5616 downloads</span>
+            </span>
+            <span class="hstrut"></span>
+        </a>
+    </li>
+    <li class="booklink">
+        <a class="link" href="https://www.gutenberg.org/ebooks/16328" accesskey="4">
+            <span class="cell leftcell without-cover">
+                <span class="icon-wrapper">
+                    <span class="icon icon_book"></span>
+                </span>
+            </span>
+            <span class="cell content">
+                <span class="title">Beowulf
+</span>
+                <span class="extra">5211 downloads</span>
+            </span>
+            <span class="hstrut"></span>
+        </a>
+    </li>
+    <li class="booklink">
+        <a class="link" href="https://www.gutenberg.org/ebooks/42" accesskey="5">
+            <span class="cell leftcell without-cover">
+                <span class="icon-wrapper">
+                    <span class="icon icon_book"></span>
+                </span>
+            </span>
+            <span class="cell content">
+                <span class="title">The Strange Case of Dr. Jekyll and Mr. Hyde</span>
+                <span class="subtitle">Robert Louis Stevenson</span>
+                <span class="extra">5189 downloads</span>
+            </span>
+            <span class="hstrut"></span>
+        </a>
+    </li>
+    <li class="booklink">
+        <a class="link" href="https://www.gutenberg.org/ebooks/1184" accesskey="6">
+            <span class="cell leftcell with-cover"></span>
+            <span class="cell content">
+                <span class="title">The Count of Monte Cristo, Illustrated</span>
+                <span class="subtitle">Alexandre Dumas</span>
+                <span class="extra">5167 downloads</span>
+            </span>
+            <span class="hstrut"></span>
+        </a>
+    </li>
+    <li class="booklink">
+        <a class="link" href="https://www.gutenberg.org/ebooks/30254" accesskey="7">
+            <span class="cell leftcell without-cover">
+                <span class="icon-wrapper">
+                    <span class="icon icon_book"></span>
+                </span>
+            </span>
+            <span class="cell content">
+                <span class="title">The Romance of Lust: A Classic Victorian erotic novel</span>
+                <span class="subtitle">Anonymous</span>
+                <span class="extra">5136 downloads</span>
+            </span>
+            <span class="hstrut"></span>
+        </a>
+    </li>
+    <li class="booklink">
+        <a class="link" href="https://www.gutenberg.org/ebooks/219" accesskey="8">
+            <span class="cell leftcell without-cover">
+                <span class="icon-wrapper">
+                    <span class="icon icon_book"></span>
+                </span>
+            </span>
+            <span class="cell content">
+                <span class="title">Heart of Darkness</span>
+                <span class="subtitle">Joseph Conrad</span>
+                <span class="extra">5089 downloads</span>
+            </span>
+            <span class="hstrut"></span>
+        </a>
+    </li>
+    <li class="booklink">
+        <a class="link" href="https://www.gutenberg.org/ebooks/135" accesskey="9">
+            <span class="cell leftcell with-cover"></span>
+            <span class="cell content">
+                <span class="title">Les Miserables</span>
+                <span class="subtitle">Victor Hugo</span>
+                <span class="extra">4894 downloads</span>
+            </span>
+            <span class="hstrut"></span>
+        </a>
+    </li>
+    <li class="booklink">
+        <a class="link" href="https://www.gutenberg.org/ebooks/120" accesskey="0">
+            <span class="cell leftcell with-cover"></span>
+            <span class="cell content">
+                <span class="title">Treasure Island</span>
+                <span class="subtitle">Robert Louis Stevenson</span>
+                <span class="extra">4812 downloads</span>
+            </span>
+            <span class="hstrut"></span>
+        </a>
+    </li>
+    <li class="booklink">
+        <a class="link" href="https://www.gutenberg.org/ebooks/161" accesskey="1">
+            <span class="cell leftcell without-cover">
+                <span class="icon-wrapper">
+                    <span class="icon icon_book"></span>
+                </span>
+            </span>
+            <span class="cell content">
+                <span class="title">Sense and Sensibility</span>
+                <span class="subtitle">Jane Austen</span>
+                <span class="extra">4786 downloads</span>
+            </span>
+            <span class="hstrut"></span>
+        </a>
+    </li>
+    <li class="booklink">
+        <a class="link" href="https://www.gutenberg.org/ebooks/768" accesskey="2">
+            <span class="cell leftcell without-cover">
+                <span class="icon-wrapper">
+                    <span class="icon icon_book"></span>
+                </span>
+            </span>
+            <span class="cell content">
+                <span class="title">Wuthering Heights</span>
+                <span class="subtitle">Emily Bronte</span>
+                <span class="extra">4710 downloads</span>
+            </span>
+            <span class="hstrut"></span>
+        </a>
+    </li>
+    <li class="booklink">
+        <a class="link" href="https://www.gutenberg.org/ebooks/30360" accesskey="3">
+            <span class="cell leftcell without-cover">
+                <span class="icon-wrapper">
+                    <span class="icon icon_book"></span>
+                </span>
+            </span>
+            <span class="cell content">
+                <span class="title">My Secret Life, Volumes I. to III.</span>
+                <span class="subtitle">Anonymous</span>
+                <span class="extra">4542 downloads</span>
+            </span>
+            <span class="hstrut"></span>
+        </a>
+    </li>
+    <li class="booklink">
+        <a class="link" href="https://www.gutenberg.org/ebooks/16" accesskey="4">
+            <span class="cell leftcell without-cover">
+                <span class="icon-wrapper">
+                    <span class="icon icon_book"></span>
+                </span>
+            </span>
+            <span class="cell content">
+                <span class="title">Peter Pan</span>
+                <span class="subtitle">J. M. Barrie</span>
+                <span class="extra">4496 downloads</span>
+            </span>
+            <span class="hstrut"></span>
+        </a>
+    </li>
+    <li class="booklink">
+        <a class="link" href="https://www.gutenberg.org/ebooks/8800" accesskey="5">
+            <span class="cell leftcell with-cover"></span>
+            <span class="cell content">
+                <span class="title">The Divine Comedy by Dante, Illustrated</span>
+                <span class="subtitle">Dante Alighieri</span>
+                <span class="extra">4436 downloads</span>
+            </span>
+            <span class="hstrut"></span>
+        </a>
+    </li>
+    <li class="booklink">
+        <a class="link" href="https://www.gutenberg.org/ebooks/3207" accesskey="6">
+            <span class="cell leftcell without-cover">
+                <span class="icon-wrapper">
+                    <span class="icon icon_book"></span>
+                </span>
+            </span>
+            <span class="cell content">
+                <span class="title">Leviathan</span>
+                <span class="subtitle">Thomas Hobbes</span>
+                <span class="extra">4419 downloads</span>
+            </span>
+            <span class="hstrut"></span>
+        </a>
+    </li>
+    <li class="booklink">
+        <a class="link" href="https://www.gutenberg.org/ebooks/2500" accesskey="7">
+            <span class="cell leftcell without-cover">
+                <span class="icon-wrapper">
+                    <span class="icon icon_book"></span>
+                </span>
+            </span>
+            <span class="cell content">
+                <span class="title">Siddhartha</span>
+                <span class="subtitle">Hermann Hesse</span>
+                <span class="extra">4061 downloads</span>
+            </span>
+            <span class="hstrut"></span>
+        </a>
+    </li>
+    <li class="booklink">
+        <a class="link" href="https://www.gutenberg.org/ebooks/3825" accesskey="8">
+            <span class="cell leftcell without-cover">
+                <span class="icon-wrapper">
+                    <span class="icon icon_book"></span>
+                </span>
+            </span>
+            <span class="cell content">
+                <span class="title">Pygmalion</span>
+                <span class="subtitle">Bernard Shaw</span>
+                <span class="extra">4055 downloads</span>
+            </span>
+            <span class="hstrut"></span>
+        </a>
+    </li>
+    <li class="booklink">
+        <a class="link" href="https://www.gutenberg.org/ebooks/160" accesskey="9">
+            <span class="cell leftcell without-cover">
+                <span class="icon-wrapper">
+                    <span class="icon icon_book"></span>
+                </span>
+            </span>
+            <span class="cell content">
+                <span class="title">The Awakening, and Selected Short Stories</span>
+                <span class="subtitle">Kate Chopin</span>
+                <span class="extra">4012 downloads</span>
+            </span>
+            <span class="hstrut"></span>
+        </a>
+    </li>
+    <li class="booklink">
+        <a class="link" href="https://www.gutenberg.org/ebooks/100" accesskey="0">
+            <span class="cell leftcell without-cover">
+                <span class="icon-wrapper">
+                    <span class="icon icon_book"></span>
+                </span>
+            </span>
+            <span class="cell content">
+                <span class="title">The Complete Works of William Shakespeare</span>
+                <span class="subtitle">William Shakespeare</span>
+                <span class="extra">3986 downloads</span>
+            </span>
+            <span class="hstrut"></span>
+        </a>
+    </li>
+    <li class="booklink">
+        <a class="link" href="https://www.gutenberg.org/ebooks/1497" accesskey="1">
+            <span class="cell leftcell without-cover">
+                <span class="icon-wrapper">
+                    <span class="icon icon_book"></span>
+                </span>
+            </span>
+            <span class="cell content">
+                <span class="title">The Republic</span>
+                <span class="subtitle">Plato</span>
+                <span class="extra">3906 downloads</span>
+            </span>
+            <span class="hstrut"></span>
+        </a>
+    </li>
+    <li class="booklink">
+        <a class="link" href="https://www.gutenberg.org/ebooks/244" accesskey="2">
+            <span class="cell leftcell without-cover">
+                <span class="icon-wrapper">
+                    <span class="icon icon_book"></span>
+                </span>
+            </span>
+            <span class="cell content">
+                <span class="title">A Study in Scarlet</span>
+                <span class="subtitle">Arthur Conan Doyle</span>
+                <span class="extra">3810 downloads</span>
+            </span>
+            <span class="hstrut"></span>
+        </a>
+    </li>
+    <li class="booklink">
+        <a class="link" href="https://www.gutenberg.org/ebooks/2554" accesskey="3">
+            <span class="cell leftcell without-cover">
+                <span class="icon-wrapper">
+                    <span class="icon icon_book"></span>
+                </span>
+            </span>
+            <span class="cell content">
+                <span class="title">Prestuplenie i nakazanie. English</span>
+                <span class="subtitle">Fyodor Dostoyevsky</span>
+                <span class="extra">3713 downloads</span>
+            </span>
+            <span class="hstrut"></span>
+        </a>
+    </li>
+    <li class="booklink">
+        <a class="link" href="https://www.gutenberg.org/ebooks/34901" accesskey="4">
+            <span class="cell leftcell without-cover">
+                <span class="icon-wrapper">
+                    <span class="icon icon_book"></span>
+                </span>
+            </span>
+            <span class="cell content">
+                <span class="title">On Liberty</span>
+                <span class="subtitle">John Stuart Mill</span>
+                <span class="extra">3697 downloads</span>
+            </span>
+            <span class="hstrut"></span>
+        </a>
+    </li>
+    <li class="booklink">
+        <a class="link" href="https://www.gutenberg.org/ebooks/3600" accesskey="5">
+            <span class="cell leftcell with-cover"></span>
+            <span class="cell content">
+                <span class="title">Essays of Michel de Montaigne -- Complete</span>
+                <span class="subtitle">Michel de Montaigne</span>
+                <span class="extra">3650 downloads</span>
+            </span>
+            <span class="hstrut"></span>
+        </a>
+    </li>
+    <li class="booklink">
+        <a class="link" href="https://www.gutenberg.org/ebooks/829" accesskey="1">
+            <span class="cell leftcell without-cover">
+                <span class="icon-wrapper">
+                    <span class="icon icon_book"></span>
+                </span>
+            </span>
+            <span class="cell content">
+                <span class="title">Gulliver's Travels into Several Remote Nations of the World</span>
+                <span class="subtitle">Jonathan Swift</span>
+                <span class="extra">3509 downloads</span>
+            </span>
+            <span class="hstrut"></span>
+        </a>
+    </li>
+    <li class="booklink">
+        <a class="link" href="https://www.gutenberg.org/ebooks/35" accesskey="2">
+            <span class="cell leftcell without-cover">
+                <span class="icon-wrapper">
+                    <span class="icon icon_book"></span>
+                </span>
+            </span>
+            <span class="cell content">
+                <span class="title">The Time Machine</span>
+                <span class="subtitle">H. G. Wells</span>
+                <span class="extra">3289 downloads</span>
+            </span>
+            <span class="hstrut"></span>
+        </a>
+    </li>
+    <li class="booklink">
+        <a class="link" href="https://www.gutenberg.org/ebooks/521" accesskey="3">
+            <span class="cell leftcell without-cover">
+                <span class="icon-wrapper">
+                    <span class="icon icon_book"></span>
+                </span>
+            </span>
+            <span class="cell content">
+                <span class="title">The Life and Adventures of Robinson Crusoe</span>
+                <span class="subtitle">Daniel Defoe</span>
+                <span class="extra">3276 downloads</span>
+            </span>
+            <span class="hstrut"></span>
+        </a>
+    </li>
+    <li class="booklink">
+        <a class="link" href="https://www.gutenberg.org/ebooks/19942" accesskey="4">
+            <span class="cell leftcell without-cover">
+                <span class="icon-wrapper">
+                    <span class="icon icon_book"></span>
+                </span>
+            </span>
+            <span class="cell content">
+                <span class="title">Candide</span>
+                <span class="subtitle">Voltaire</span>
+                <span class="extra">3269 downloads</span>
+            </span>
+            <span class="hstrut"></span>
+        </a>
+    </li>
+    <li class="booklink">
+        <a class="link" href="https://www.gutenberg.org/ebooks/6130" accesskey="5">
+            <span class="cell leftcell without-cover">
+                <span class="icon-wrapper">
+                    <span class="icon icon_book"></span>
+                </span>
+            </span>
+            <span class="cell content">
+                <span class="title">The Iliad</span>
+                <span class="subtitle">Homer</span>
+                <span class="extra">3230 downloads</span>
+            </span>
+            <span class="hstrut"></span>
+        </a>
+    </li>
+    <li class="booklink">
+        <a class="link" href="https://www.gutenberg.org/ebooks/526" accesskey="6">
+            <span class="cell leftcell without-cover">
+                <span class="icon-wrapper">
+                    <span class="icon icon_book"></span>
+                </span>
+            </span>
+            <span class="cell content">
+                <span class="title">Heart of Darkness</span>
+                <span class="subtitle">Joseph Conrad</span>
+                <span class="extra">3224 downloads</span>
+            </span>
+            <span class="hstrut"></span>
+        </a>
+    </li>
+    <li class="booklink">
+        <a class="link" href="https://www.gutenberg.org/ebooks/55" accesskey="7">
+            <span class="cell leftcell without-cover">
+                <span class="icon-wrapper">
+                    <span class="icon icon_book"></span>
+                </span>
+            </span>
+            <span class="cell content">
+                <span class="title">The Wonderful Wizard of Oz</span>
+                <span class="subtitle">L. Frank Baum</span>
+                <span class="extra">3170 downloads</span>
+            </span>
+            <span class="hstrut"></span>
+        </a>
+    </li>
+    <li class="booklink">
+        <a class="link" href="https://www.gutenberg.org/ebooks/4363" accesskey="8">
+            <span class="cell leftcell without-cover">
+                <span class="icon-wrapper">
+                    <span class="icon icon_book"></span>
+                </span>
+            </span>
+            <span class="cell content">
+                <span class="title">Beyond Good and Evil</span>
+                <span class="subtitle">Friedrich Wilhelm Nietzsche</span>
+                <span class="extra">3142 downloads</span>
+            </span>
+            <span class="hstrut"></span>
+        </a>
+    </li>
+    <li class="booklink">
+        <a class="link" href="https://www.gutenberg.org/ebooks/10" accesskey="9">
+            <span class="cell leftcell without-cover">
+                <span class="icon-wrapper">
+                    <span class="icon icon_book"></span>
+                </span>
+            </span>
+            <span class="cell content">
+                <span class="title">The King James Version of the Bible</span>
+                <span class="extra">2947 downloads</span>
+            </span>
+            <span class="hstrut"></span>
+        </a>
+    </li>
+    <li class="booklink">
+        <a class="link" href="https://www.gutenberg.org/ebooks/28520" accesskey="0">
+            <span class="cell leftcell without-cover">
+                <span class="icon-wrapper">
+                    <span class="icon icon_book"></span>
+                </span>
+            </span>
+            <span class="cell content">
+                <span class="title">Forbidden Fruit</span>
+                <span class="subtitle">Anonymous</span>
+                <span class="extra">2938 downloads</span>
+            </span>
+            <span class="hstrut"></span>
+        </a>
+    </li>
+    <li class="booklink">
+        <a class="link" href="https://www.gutenberg.org/ebooks/28054" accesskey="1">
+            <span class="cell leftcell without-cover">
+                <span class="icon-wrapper">
+                    <span class="icon icon_book"></span>
+                </span>
+            </span>
+            <span class="cell content">
+                <span class="title">The Brothers Karamazov</span>
+                <span class="subtitle">Fyodor Dostoyevsky</span>
+                <span class="extra">2932 downloads</span>
+            </span>
+            <span class="hstrut"></span>
+        </a>
+    </li>
+    <li class="booklink">
+        <a class="link" href="https://www.gutenberg.org/ebooks/996" accesskey="2">
+            <span class="cell leftcell without-cover">
+                <span class="icon-wrapper">
+                    <span class="icon icon_book"></span>
+                </span>
+            </span>
+            <span class="cell content">
+                <span class="title">Don Quixote</span>
+                <span class="subtitle">Miguel de Cervantes Saavedra</span>
+                <span class="extra">2919 downloads</span>
+            </span>
+            <span class="hstrut"></span>
+        </a>
+    </li>
+    <li class="booklink">
+        <a class="link" href="https://www.gutenberg.org/ebooks/12" accesskey="3">
+            <span class="cell leftcell without-cover">
+                <span class="icon-wrapper">
+                    <span class="icon icon_book"></span>
+                </span>
+            </span>
+            <span class="cell content">
+                <span class="title">Through the Looking-Glass</span>
+                <span class="subtitle">Lewis Carroll</span>
+                <span class="extra">2903 downloads</span>
+            </span>
+            <span class="hstrut"></span>
+        </a>
+    </li>
+    <li class="booklink">
+        <a class="link" href="https://www.gutenberg.org/ebooks/1934" accesskey="4">
+            <span class="cell leftcell without-cover">
+                <span class="icon-wrapper">
+                    <span class="icon icon_book"></span>
+                </span>
+            </span>
+            <span class="cell content">
+                <span class="title">Songs of Innocence, and Songs of Experience</span>
+                <span class="subtitle">William Blake</span>
+                <span class="extra">2864 downloads</span>
+            </span>
+            <span class="hstrut"></span>
+        </a>
+    </li>
+    <li class="booklink">
+        <a class="link" href="https://www.gutenberg.org/ebooks/203" accesskey="5">
+            <span class="cell leftcell without-cover">
+                <span class="icon-wrapper">
+                    <span class="icon icon_book"></span>
+                </span>
+            </span>
+            <span class="cell content">
+                <span class="title">Uncle Tom's Cabin</span>
+                <span class="subtitle">Harriet Beecher Stowe</span>
+                <span class="extra">2861 downloads</span>
+            </span>
+            <span class="hstrut"></span>
+        </a>
+    </li>
+    <li class="booklink">
+        <a class="link" href="https://www.gutenberg.org/ebooks/730" accesskey="6">
+            <span class="cell leftcell without-cover">
+                <span class="icon-wrapper">
+                    <span class="icon icon_book"></span>
+                </span>
+            </span>
+            <span class="cell content">
+                <span class="title">Oliver Twist</span>
+                <span class="subtitle">Charles Dickens</span>
+                <span class="extra">2854 downloads</span>
+            </span>
+            <span class="hstrut"></span>
+        </a>
+    </li>
+    <li class="booklink">
+        <a class="link" href="https://www.gutenberg.org/ebooks/2852" accesskey="7">
+            <span class="cell leftcell without-cover">
+                <span class="icon-wrapper">
+                    <span class="icon icon_book"></span>
+                </span>
+            </span>
+            <span class="cell content">
+                <span class="title">The Hound of the Baskervilles</span>
+                <span class="subtitle">Arthur Conan Doyle</span>
+                <span class="extra">2850 downloads</span>
+            </span>
+            <span class="hstrut"></span>
+        </a>
+    </li>
+    <li class="booklink">
+        <a class="link" href="https://www.gutenberg.org/ebooks/20203" accesskey="8">
+            <span class="cell leftcell with-cover"></span>
+            <span class="cell content">
+                <span class="title">Autobiography of Benjamin Franklin</span>
+                <span class="subtitle">Benjamin Franklin</span>
+                <span class="extra">2823 downloads</span>
+            </span>
+            <span class="hstrut"></span>
+        </a>
+    </li>
+    <li class="booklink">
+        <a class="link" href="https://www.gutenberg.org/ebooks/31284" accesskey="9">
+            <span class="cell leftcell with-cover"></span>
+            <span class="cell content">
+                <span class="title">Josefine Mutzenbacher (German)</span>
+                <span class="subtitle">Felix Salten</span>
+                <span class="extra">2819 downloads</span>
+            </span>
+            <span class="hstrut"></span>
+        </a>
+    </li>
+    <li class="booklink">
+        <a class="link" href="https://www.gutenberg.org/ebooks/4217" accesskey="0">
+            <span class="cell leftcell without-cover">
+                <span class="icon-wrapper">
+                    <span class="icon icon_book"></span>
+                </span>
+            </span>
+            <span class="cell content">
+                <span class="title">A Portrait of the Artist as a Young Man</span>
+                <span class="subtitle">James Joyce</span>
+                <span class="extra">2767 downloads</span>
+            </span>
+            <span class="hstrut"></span>
+        </a>
+    </li>
+    <li class="booklink">
+        <a class="link" href="https://www.gutenberg.org/ebooks/33283" accesskey="1">
+            <span class="cell leftcell without-cover">
+                <span class="icon-wrapper">
+                    <span class="icon icon_book"></span>
+                </span>
+            </span>
+            <span class="cell content">
+                <span class="title">Calculus Made Easy
+</span>
+                <span class="subtitle">Silvanus P. Thompson</span>
+                <span class="extra">2746 downloads</span>
+            </span>
+            <span class="hstrut"></span>
+        </a>
+    </li>
+    <li class="booklink">
+        <a class="link" href="https://www.gutenberg.org/ebooks/46" accesskey="2">
+            <span class="cell leftcell with-cover"></span>
+            <span class="cell content">
+                <span class="title">A Christmas Carol in Prose; Being a Ghost Story of Christmas</span>
+                <span class="subtitle">Charles Dickens</span>
+                <span class="extra">2712 downloads</span>
+            </span>
+            <span class="hstrut"></span>
+        </a>
+    </li>
+    <li class="booklink">
+        <a class="link" href="https://www.gutenberg.org/ebooks/5740" accesskey="3">
+            <span class="cell leftcell without-cover">
+                <span class="icon-wrapper">
+                    <span class="icon icon_book"></span>
+                </span>
+            </span>
+            <span class="cell content">
+                <span class="title">Tractatus Logico-Philosophicus (German)</span>
+                <span class="subtitle">Ludwig Wittgenstein</span>
+                <span class="extra">2625 downloads</span>
+            </span>
+            <span class="hstrut"></span>
+        </a>
+    </li>
+    <li class="booklink">
+        <a class="link" href="https://www.gutenberg.org/ebooks/1399" accesskey="4">
+            <span class="cell leftcell without-cover">
+                <span class="icon-wrapper">
+                    <span class="icon icon_book"></span>
+                </span>
+            </span>
+            <span class="cell content">
+                <span class="title">Anna Karenina</span>
+                <span class="subtitle">graf Leo Tolstoy</span>
+                <span class="extra">2622 downloads</span>
+            </span>
+            <span class="hstrut"></span>
+        </a>
+    </li>
+    <li class="booklink">
+        <a class="link" href="https://www.gutenberg.org/ebooks/4517" accesskey="5">
+            <span class="cell leftcell without-cover">
+                <span class="icon-wrapper">
+                    <span class="icon icon_book"></span>
+                </span>
+            </span>
+            <span class="cell content">
+                <span class="title">Ethan Frome</span>
+                <span class="subtitle">Edith Wharton</span>
+                <span class="extra">2582 downloads</span>
+            </span>
+            <span class="hstrut"></span>
+        </a>
+    </li>
+    <li class="booklink">
+        <a class="link" href="https://www.gutenberg.org/ebooks/61" accesskey="1">
+            <span class="cell leftcell without-cover">
+                <span class="icon-wrapper">
+                    <span class="icon icon_book"></span>
+                </span>
+            </span>
+            <span class="cell content">
+                <span class="title">Manifest der Kommunistischen Partei. English</span>
+                <span class="subtitle">Karl Marx and Friedrich Engels</span>
+                <span class="extra">2574 downloads</span>
+            </span>
+            <span class="hstrut"></span>
+        </a>
+    </li>
+    <li class="booklink">
+        <a class="link" href="https://www.gutenberg.org/ebooks/103" accesskey="2">
+            <span class="cell leftcell without-cover">
+                <span class="icon-wrapper">
+                    <span class="icon icon_book"></span>
+                </span>
+            </span>
+            <span class="cell content">
+                <span class="title">Around the World in Eighty Days</span>
+                <span class="subtitle">Jules Verne</span>
+                <span class="extra">2567 downloads</span>
+            </span>
+            <span class="hstrut"></span>
+        </a>
+    </li>
+    <li class="booklink">
+        <a class="link" href="https://www.gutenberg.org/ebooks/30601" accesskey="3">
+            <span class="cell leftcell with-cover"></span>
+            <span class="cell content">
+                <span class="title">How to Analyze People on Sight</span>
+                <span class="subtitle">Elsie Lincoln Benedict and Ralph Paine Benedict</span>
+                <span class="extra">2467 downloads</span>
+            </span>
+            <span class="hstrut"></span>
+        </a>
+    </li>
+    <li class="booklink">
+        <a class="link" href="https://www.gutenberg.org/ebooks/205" accesskey="4">
+            <span class="cell leftcell without-cover">
+                <span class="icon-wrapper">
+                    <span class="icon icon_book"></span>
+                </span>
+            </span>
+            <span class="cell content">
+                <span class="title">Walden, and On The Duty Of Civil Disobedience</span>
+                <span class="subtitle">Henry David Thoreau</span>
+                <span class="extra">2461 downloads</span>
+            </span>
+            <span class="hstrut"></span>
+        </a>
+    </li>
+    <li class="booklink">
+        <a class="link" href="https://www.gutenberg.org/ebooks/105" accesskey="5">
+            <span class="cell leftcell without-cover">
+                <span class="icon-wrapper">
+                    <span class="icon icon_book"></span>
+                </span>
+            </span>
+            <span class="cell content">
+                <span class="title">Persuasion</span>
+                <span class="subtitle">Jane Austen</span>
+                <span class="extra">2460 downloads</span>
+            </span>
+            <span class="hstrut"></span>
+        </a>
+    </li>
+    <li class="booklink">
+        <a class="link" href="https://www.gutenberg.org/ebooks/2147" accesskey="6">
+            <span class="cell leftcell without-cover">
+                <span class="icon-wrapper">
+                    <span class="icon icon_book"></span>
+                </span>
+            </span>
+            <span class="cell content">
+                <span class="title">The Works of Edgar Allan Poe -- Volume 1</span>
+                <span class="subtitle">Edgar Allan Poe</span>
+                <span class="extra">2428 downloads</span>
+            </span>
+            <span class="hstrut"></span>
+        </a>
+    </li>
+    <li class="booklink">
+        <a class="link" href="https://www.gutenberg.org/ebooks/36" accesskey="7">
+            <span class="cell leftcell without-cover">
+                <span class="icon-wrapper">
+                    <span class="icon icon_book"></span>
+                </span>
+            </span>
+            <span class="cell content">
+                <span class="title">The War of the Worlds</span>
+                <span class="subtitle">H. G. Wells</span>
+                <span class="extra">2419 downloads</span>
+            </span>
+            <span class="hstrut"></span>
+        </a>
+    </li>
+    <li class="booklink">
+        <a class="link" href="https://www.gutenberg.org/ebooks/45" accesskey="8">
+            <span class="cell leftcell without-cover">
+                <span class="icon-wrapper">
+                    <span class="icon icon_book"></span>
+                </span>
+            </span>
+            <span class="cell content">
+                <span class="title">Anne of Green Gables</span>
+                <span class="subtitle">L. M. Montgomery</span>
+                <span class="extra">2385 downloads</span>
+            </span>
+            <span class="hstrut"></span>
+        </a>
+    </li>
+    <li class="booklink">
+        <a class="link" href="https://www.gutenberg.org/ebooks/863" accesskey="9">
+            <span class="cell leftcell without-cover">
+                <span class="icon-wrapper">
+                    <span class="icon icon_book"></span>
+                </span>
+            </span>
+            <span class="cell content">
+                <span class="title">The Mysterious Affair at Styles</span>
+                <span class="subtitle">Agatha Christie</span>
+                <span class="extra">2385 downloads</span>
+            </span>
+            <span class="hstrut"></span>
+        </a>
+    </li>
+    <li class="booklink">
+        <a class="link" href="https://www.gutenberg.org/ebooks/121" accesskey="0">
+            <span class="cell leftcell without-cover">
+                <span class="icon-wrapper">
+                    <span class="icon icon_book"></span>
+                </span>
+            </span>
+            <span class="cell content">
+                <span class="title">Northanger Abbey</span>
+                <span class="subtitle">Jane Austen</span>
+                <span class="extra">2374 downloads</span>
+            </span>
+            <span class="hstrut"></span>
+        </a>
+    </li>
+    <li class="booklink">
+        <a class="link" href="https://www.gutenberg.org/ebooks/1112" accesskey="1">
+            <span class="cell leftcell without-cover">
+                <span class="icon-wrapper">
+                    <span class="icon icon_book"></span>
+                </span>
+            </span>
+            <span class="cell content">
+                <span class="title">The Tragedy of Romeo and Juliet</span>
+                <span class="subtitle">William Shakespeare</span>
+                <span class="extra">2365 downloads</span>
+            </span>
+            <span class="hstrut"></span>
+        </a>
+    </li>
+    <li class="booklink">
+        <a class="link" href="https://www.gutenberg.org/ebooks/14838" accesskey="2">
+            <span class="cell leftcell without-cover">
+                <span class="icon-wrapper">
+                    <span class="icon icon_book"></span>
+                </span>
+            </span>
+            <span class="cell content">
+                <span class="title">The Tale of Peter Rabbit</span>
+                <span class="subtitle">Beatrix Potter</span>
+                <span class="extra">2358 downloads</span>
+            </span>
+            <span class="hstrut"></span>
+        </a>
+    </li>
+    <li class="booklink">
+        <a class="link" href="https://www.gutenberg.org/ebooks/308" accesskey="3">
+            <span class="cell leftcell without-cover">
+                <span class="icon-wrapper">
+                    <span class="icon icon_book"></span>
+                </span>
+            </span>
+            <span class="cell content">
+                <span class="title">Three Men in a Boat</span>
+                <span class="subtitle">Jerome K. Jerome</span>
+                <span class="extra">2341 downloads</span>
+            </span>
+            <span class="hstrut"></span>
+        </a>
+    </li>
+    <li class="booklink">
+        <a class="link" href="https://www.gutenberg.org/ebooks/2413" accesskey="4">
+            <span class="cell leftcell without-cover">
+                <span class="icon-wrapper">
+                    <span class="icon icon_book"></span>
+                </span>
+            </span>
+            <span class="cell content">
+                <span class="title">Madame Bovary</span>
+                <span class="subtitle">Gustave Flaubert</span>
+                <span class="extra">2320 downloads</span>
+            </span>
+            <span class="hstrut"></span>
+        </a>
+    </li>
+    <li class="booklink">
+        <a class="link" href="https://www.gutenberg.org/ebooks/7370" accesskey="5">
+            <span class="cell leftcell without-cover">
+                <span class="icon-wrapper">
+                    <span class="icon icon_book"></span>
+                </span>
+            </span>
+            <span class="cell content">
+                <span class="title">Second Treatise of Government</span>
+                <span class="subtitle">John Locke</span>
+                <span class="extra">2306 downloads</span>
+            </span>
+            <span class="hstrut"></span>
+        </a>
+    </li>
+    <li class="booklink">
+        <a class="link" href="https://www.gutenberg.org/ebooks/766" accesskey="6">
+            <span class="cell leftcell without-cover">
+                <span class="icon-wrapper">
+                    <span class="icon icon_book"></span>
+                </span>
+            </span>
+            <span class="cell content">
+                <span class="title">David Copperfield</span>
+                <span class="subtitle">Charles Dickens</span>
+                <span class="extra">2301 downloads</span>
+            </span>
+            <span class="hstrut"></span>
+        </a>
+    </li>
+    <li class="booklink">
+        <a class="link" href="https://www.gutenberg.org/ebooks/815" accesskey="7">
+            <span class="cell leftcell without-cover">
+                <span class="icon-wrapper">
+                    <span class="icon icon_book"></span>
+                </span>
+            </span>
+            <span class="cell content">
+                <span class="title">Democracy in America -- Volume 1</span>
+                <span class="subtitle">Alexis de Tocqueville</span>
+                <span class="extra">2275 downloads</span>
+            </span>
+            <span class="hstrut"></span>
+        </a>
+    </li>
+    <li class="booklink">
+        <a class="link" href="https://www.gutenberg.org/ebooks/852" accesskey="8">
+            <span class="cell leftcell without-cover">
+                <span class="icon-wrapper">
+                    <span class="icon icon_book"></span>
+                </span>
+            </span>
+            <span class="cell content">
+                <span class="title">Democracy and Education: An Introduction to the Philosophy of Education</span>
+                <span class="subtitle">John Dewey</span>
+                <span class="extra">2262 downloads</span>
+            </span>
+            <span class="hstrut"></span>
+        </a>
+    </li>
+    <li class="booklink">
+        <a class="link" href="https://www.gutenberg.org/ebooks/25717" accesskey="9">
+            <span class="cell leftcell with-cover"></span>
+            <span class="cell content">
+                <span class="title">The History Of The Decline And Fall Of The Roman Empire</span>
+                <span class="subtitle">Edward Gibbon</span>
+                <span class="extra">2247 downloads</span>
+            </span>
+            <span class="hstrut"></span>
+        </a>
+    </li>
+    <li class="booklink">
+        <a class="link" href="https://www.gutenberg.org/ebooks/209" accesskey="0">
+            <span class="cell leftcell without-cover">
+                <span class="icon-wrapper">
+                    <span class="icon icon_book"></span>
+                </span>
+            </span>
+            <span class="cell content">
+                <span class="title">The Turn of the Screw</span>
+                <span class="subtitle">Henry James</span>
+                <span class="extra">2192 downloads</span>
+            </span>
+            <span class="hstrut"></span>
+        </a>
+    </li>
+    <li class="booklink">
+        <a class="link" href="https://www.gutenberg.org/ebooks/786" accesskey="1">
+            <span class="cell leftcell without-cover">
+                <span class="icon-wrapper">
+                    <span class="icon icon_book"></span>
+                </span>
+            </span>
+            <span class="cell content">
+                <span class="title">Hard Times</span>
+                <span class="subtitle">Charles Dickens</span>
+                <span class="extra">2182 downloads</span>
+            </span>
+            <span class="hstrut"></span>
+        </a>
+    </li>
+    <li class="booklink">
+        <a class="link" href="https://www.gutenberg.org/ebooks/35997" accesskey="2">
+            <span class="cell leftcell with-cover"></span>
+            <span class="cell content">
+                <span class="title">The Jungle Book</span>
+                <span class="subtitle">Rudyard Kipling</span>
+                <span class="extra">2157 downloads</span>
+            </span>
+            <span class="hstrut"></span>
+        </a>
+    </li>
+    <li class="booklink">
+        <a class="link" href="https://www.gutenberg.org/ebooks/10609" accesskey="3">
+            <span class="cell leftcell without-cover">
+                <span class="icon-wrapper">
+                    <span class="icon icon_book"></span>
+                </span>
+            </span>
+            <span class="cell content">
+                <span class="title">English Literature
+</span>
+                <span class="subtitle">William J. Long</span>
+                <span class="extra">2148 downloads</span>
+            </span>
+            <span class="hstrut"></span>
+        </a>
+    </li>
+    <li class="booklink">
+        <a class="link" href="https://www.gutenberg.org/ebooks/141" accesskey="4">
+            <span class="cell leftcell without-cover">
+                <span class="icon-wrapper">
+                    <span class="icon icon_book"></span>
+                </span>
+            </span>
+            <span class="cell content">
+                <span class="title">Mansfield Park</span>
+                <span class="subtitle">Jane Austen</span>
+                <span class="extra">2147 downloads</span>
+            </span>
+            <span class="hstrut"></span>
+        </a>
+    </li>
+    <li class="booklink">
+        <a class="link" href="https://www.gutenberg.org/ebooks/2148" accesskey="5">
+            <span class="cell leftcell without-cover">
+                <span class="icon-wrapper">
+                    <span class="icon icon_book"></span>
+                </span>
+            </span>
+            <span class="cell content">
+                <span class="title">The Works of Edgar Allan Poe -- Volume 2</span>
+                <span class="subtitle">Edgar Allan Poe</span>
+                <span class="extra">2123 downloads</span>
+            </span>
+            <span class="hstrut"></span>
+        </a>
+    </li>
+</books>

@@ -1,0 +1,608 @@
+<?xml  version="1.0" encoding="UTF-8"?>
+<books>
+  <book>
+    <title>Pride and Prejudice</title>
+    <author>Jane Austen</author>
+    <downloads>24951 downloads</downloads>
+    <url>https://www.gutenberg.org/ebooks/1342</url>
+  </book>
+  <book>
+    <title>Alice's Adventures in Wonderland</title>
+    <author>Lewis Carroll</author>
+    <downloads>17135 downloads</downloads>
+    <url>https://www.gutenberg.org/ebooks/11</url>
+  </book>
+  <book>
+    <title>The Yellow Wallpaper</title>
+    <author>Charlotte Perkins Gilman</author>
+    <downloads>13413 downloads</downloads>
+    <url>https://www.gutenberg.org/ebooks/1952</url>
+  </book>
+  <book>
+    <title>The Importance of Being Earnest: A Trivial Comedy for Serious People</title>
+    <author>Oscar Wilde</author>
+    <downloads>12116 downloads</downloads>
+    <url>https://www.gutenberg.org/ebooks/844</url>
+  </book>
+  <book>
+    <title>Frankenstein; Or, The Modern Prometheus</title>
+    <author>Mary Wollstonecraft Shelley</author>
+    <downloads>12011 downloads</downloads>
+    <url>https://www.gutenberg.org/ebooks/84</url>
+  </book>
+  <book>
+    <title>Adventures of Huckleberry Finn</title>
+    <author>Mark Twain</author>
+    <downloads>11408 downloads</downloads>
+    <url>https://www.gutenberg.org/ebooks/76</url>
+  </book>
+  <book>
+    <title>Metamorphosis</title>
+    <author>Franz Kafka</author>
+    <downloads>11030 downloads</downloads>
+    <url>https://www.gutenberg.org/ebooks/5200</url>
+  </book>
+  <book>
+    <title>A Tale of Two Cities</title>
+    <author>Charles Dickens</author>
+    <downloads>9532 downloads</downloads>
+    <url>https://www.gutenberg.org/ebooks/98</url>
+  </book>
+  <book>
+    <title>The Adventures of Sherlock Holmes</title>
+    <author>Arthur Conan Doyle</author>
+    <downloads>9218 downloads</downloads>
+    <url>https://www.gutenberg.org/ebooks/1661</url>
+  </book>
+  <book>
+    <title>The Adventures of Tom Sawyer</title>
+    <author>Mark Twain</author>
+    <downloads>9058 downloads</downloads>
+    <url>https://www.gutenberg.org/ebooks/74</url>
+  </book>
+  <book>
+    <title>The Jungle Book</title>
+    <author>Rudyard Kipling</author>
+    <downloads>8994 downloads</downloads>
+    <url>https://www.gutenberg.org/ebooks/236</url>
+  </book>
+  <book>
+    <title>A Doll's House : a play</title>
+    <author>Henrik Ibsen</author>
+    <downloads>8796 downloads</downloads>
+    <url>https://www.gutenberg.org/ebooks/2542</url>
+  </book>
+  <book>
+    <title>Narrative of the Life of Frederick Douglass, an American Slave</title>
+    <author>Frederick Douglass</author>
+    <downloads>8524 downloads</downloads>
+    <url>https://www.gutenberg.org/ebooks/23</url>
+  </book>
+  <book>
+    <title>Struwwelpeter: Merry Stories and Funny Pictures</title>
+    <author>Heinrich Hoffmann</author>
+    <downloads>8490 downloads</downloads>
+    <url>https://www.gutenberg.org/ebooks/12116</url>
+  </book>
+  <book>
+    <title>Dracula</title>
+    <author>Bram Stoker</author>
+    <downloads>7981 downloads</downloads>
+    <url>https://www.gutenberg.org/ebooks/345</url>
+  </book>
+  <book>
+    <title>Moby Dick; Or, The Whale</title>
+    <author>Herman Melville</author>
+    <downloads>7951 downloads</downloads>
+    <url>https://www.gutenberg.org/ebooks/2701</url>
+  </book>
+  <book>
+    <title>Great Expectations</title>
+    <author>Charles Dickens</author>
+    <downloads>7596 downloads</downloads>
+    <url>https://www.gutenberg.org/ebooks/1400</url>
+  </book>
+  <book>
+    <title>Ulysses</title>
+    <author>James Joyce</author>
+    <downloads>7452 downloads</downloads>
+    <url>https://www.gutenberg.org/ebooks/4300</url>
+  </book>
+  <book>
+    <title>The Picture of Dorian Gray</title>
+    <author>Oscar Wilde</author>
+    <downloads>7286 downloads</downloads>
+    <url>https://www.gutenberg.org/ebooks/174</url>
+  </book>
+  <book>
+    <title>Il Principe. English</title>
+    <author>Niccolo Machiavelli</author>
+    <downloads>7242 downloads</downloads>
+    <url>https://www.gutenberg.org/ebooks/1232</url>
+  </book>
+  <book>
+    <title>The Kama Sutra of Vatsyayana
+</title>
+    <author>Vatsyayana</author>
+    <downloads>7113 downloads</downloads>
+    <url>https://www.gutenberg.org/ebooks/27827</url>
+  </book>
+  <book>
+    <title>Emma</title>
+    <author>Jane Austen</author>
+    <downloads>6925 downloads</downloads>
+    <url>https://www.gutenberg.org/ebooks/158</url>
+  </book>
+  <book>
+    <title>War and Peace</title>
+    <author>graf Leo Tolstoy</author>
+    <downloads>6867 downloads</downloads>
+    <url>https://www.gutenberg.org/ebooks/2600</url>
+  </book>
+  <book>
+    <title>A Modest Proposal
+</title>
+    <author>Jonathan Swift</author>
+    <downloads>6705 downloads</downloads>
+    <url>https://www.gutenberg.org/ebooks/1080</url>
+  </book>
+  <book>
+    <title>Leaves of Grass</title>
+    <author>Walt Whitman</author>
+    <downloads>6381 downloads</downloads>
+    <url>https://www.gutenberg.org/ebooks/1322</url>
+  </book>
+  <book>
+    <title>Grimms' Fairy Tales</title>
+    <author>Jacob Grimm and Wilhelm Grimm</author>
+    <downloads>6242 downloads</downloads>
+    <url>https://www.gutenberg.org/ebooks/2591</url>
+  </book>
+  <book>
+    <title>Jane Eyre: An Autobiography</title>
+    <author>Charlotte Bronte</author>
+    <downloads>5844 downloads</downloads>
+    <url>https://www.gutenberg.org/ebooks/1260</url>
+  </book>
+  <book>
+    <title>Dubliners</title>
+    <author>James Joyce</author>
+    <downloads>5616 downloads</downloads>
+    <url>https://www.gutenberg.org/ebooks/2814</url>
+  </book>
+  <book>
+    <title>Beowulf
+</title>
+    <author/>
+    <downloads>5211 downloads</downloads>
+    <url>https://www.gutenberg.org/ebooks/16328</url>
+  </book>
+  <book>
+    <title>The Strange Case of Dr. Jekyll and Mr. Hyde</title>
+    <author>Robert Louis Stevenson</author>
+    <downloads>5189 downloads</downloads>
+    <url>https://www.gutenberg.org/ebooks/42</url>
+  </book>
+  <book>
+    <title>The Count of Monte Cristo, Illustrated</title>
+    <author>Alexandre Dumas</author>
+    <downloads>5167 downloads</downloads>
+    <url>https://www.gutenberg.org/ebooks/1184</url>
+  </book>
+  <book>
+    <title>The Romance of Lust: A Classic Victorian erotic novel</title>
+    <author>Anonymous</author>
+    <downloads>5136 downloads</downloads>
+    <url>https://www.gutenberg.org/ebooks/30254</url>
+  </book>
+  <book>
+    <title>Heart of Darkness</title>
+    <author>Joseph Conrad</author>
+    <downloads>5089 downloads</downloads>
+    <url>https://www.gutenberg.org/ebooks/219</url>
+  </book>
+  <book>
+    <title>Les Miserables</title>
+    <author>Victor Hugo</author>
+    <downloads>4894 downloads</downloads>
+    <url>https://www.gutenberg.org/ebooks/135</url>
+  </book>
+  <book>
+    <title>Treasure Island</title>
+    <author>Robert Louis Stevenson</author>
+    <downloads>4812 downloads</downloads>
+    <url>https://www.gutenberg.org/ebooks/120</url>
+  </book>
+  <book>
+    <title>Sense and Sensibility</title>
+    <author>Jane Austen</author>
+    <downloads>4786 downloads</downloads>
+    <url>https://www.gutenberg.org/ebooks/161</url>
+  </book>
+  <book>
+    <title>Wuthering Heights</title>
+    <author>Emily Bronte</author>
+    <downloads>4710 downloads</downloads>
+    <url>https://www.gutenberg.org/ebooks/768</url>
+  </book>
+  <book>
+    <title>My Secret Life, Volumes I. to III.</title>
+    <author>Anonymous</author>
+    <downloads>4542 downloads</downloads>
+    <url>https://www.gutenberg.org/ebooks/30360</url>
+  </book>
+  <book>
+    <title>Peter Pan</title>
+    <author>J. M. Barrie</author>
+    <downloads>4496 downloads</downloads>
+    <url>https://www.gutenberg.org/ebooks/16</url>
+  </book>
+  <book>
+    <title>The Divine Comedy by Dante, Illustrated</title>
+    <author>Dante Alighieri</author>
+    <downloads>4436 downloads</downloads>
+    <url>https://www.gutenberg.org/ebooks/8800</url>
+  </book>
+  <book>
+    <title>Leviathan</title>
+    <author>Thomas Hobbes</author>
+    <downloads>4419 downloads</downloads>
+    <url>https://www.gutenberg.org/ebooks/3207</url>
+  </book>
+  <book>
+    <title>Siddhartha</title>
+    <author>Hermann Hesse</author>
+    <downloads>4061 downloads</downloads>
+    <url>https://www.gutenberg.org/ebooks/2500</url>
+  </book>
+  <book>
+    <title>Pygmalion</title>
+    <author>Bernard Shaw</author>
+    <downloads>4055 downloads</downloads>
+    <url>https://www.gutenberg.org/ebooks/3825</url>
+  </book>
+  <book>
+    <title>The Awakening, and Selected Short Stories</title>
+    <author>Kate Chopin</author>
+    <downloads>4012 downloads</downloads>
+    <url>https://www.gutenberg.org/ebooks/160</url>
+  </book>
+  <book>
+    <title>The Complete Works of William Shakespeare</title>
+    <author>William Shakespeare</author>
+    <downloads>3986 downloads</downloads>
+    <url>https://www.gutenberg.org/ebooks/100</url>
+  </book>
+  <book>
+    <title>The Republic</title>
+    <author>Plato</author>
+    <downloads>3906 downloads</downloads>
+    <url>https://www.gutenberg.org/ebooks/1497</url>
+  </book>
+  <book>
+    <title>A Study in Scarlet</title>
+    <author>Arthur Conan Doyle</author>
+    <downloads>3810 downloads</downloads>
+    <url>https://www.gutenberg.org/ebooks/244</url>
+  </book>
+  <book>
+    <title>Prestuplenie i nakazanie. English</title>
+    <author>Fyodor Dostoyevsky</author>
+    <downloads>3713 downloads</downloads>
+    <url>https://www.gutenberg.org/ebooks/2554</url>
+  </book>
+  <book>
+    <title>On Liberty</title>
+    <author>John Stuart Mill</author>
+    <downloads>3697 downloads</downloads>
+    <url>https://www.gutenberg.org/ebooks/34901</url>
+  </book>
+  <book>
+    <title>Essays of Michel de Montaigne -- Complete</title>
+    <author>Michel de Montaigne</author>
+    <downloads>3650 downloads</downloads>
+    <url>https://www.gutenberg.org/ebooks/3600</url>
+  </book>
+  <book>
+    <title>Gulliver's Travels into Several Remote Nations of the World</title>
+    <author>Jonathan Swift</author>
+    <downloads>3509 downloads</downloads>
+    <url>https://www.gutenberg.org/ebooks/829</url>
+  </book>
+  <book>
+    <title>The Time Machine</title>
+    <author>H. G. Wells</author>
+    <downloads>3289 downloads</downloads>
+    <url>https://www.gutenberg.org/ebooks/35</url>
+  </book>
+  <book>
+    <title>The Life and Adventures of Robinson Crusoe</title>
+    <author>Daniel Defoe</author>
+    <downloads>3276 downloads</downloads>
+    <url>https://www.gutenberg.org/ebooks/521</url>
+  </book>
+  <book>
+    <title>Candide</title>
+    <author>Voltaire</author>
+    <downloads>3269 downloads</downloads>
+    <url>https://www.gutenberg.org/ebooks/19942</url>
+  </book>
+  <book>
+    <title>The Iliad</title>
+    <author>Homer</author>
+    <downloads>3230 downloads</downloads>
+    <url>https://www.gutenberg.org/ebooks/6130</url>
+  </book>
+  <book>
+    <title>Heart of Darkness</title>
+    <author>Joseph Conrad</author>
+    <downloads>3224 downloads</downloads>
+    <url>https://www.gutenberg.org/ebooks/526</url>
+  </book>
+  <book>
+    <title>The Wonderful Wizard of Oz</title>
+    <author>L. Frank Baum</author>
+    <downloads>3170 downloads</downloads>
+    <url>https://www.gutenberg.org/ebooks/55</url>
+  </book>
+  <book>
+    <title>Beyond Good and Evil</title>
+    <author>Friedrich Wilhelm Nietzsche</author>
+    <downloads>3142 downloads</downloads>
+    <url>https://www.gutenberg.org/ebooks/4363</url>
+  </book>
+  <book>
+    <title>The King James Version of the Bible</title>
+    <author/>
+    <downloads>2947 downloads</downloads>
+    <url>https://www.gutenberg.org/ebooks/10</url>
+  </book>
+  <book>
+    <title>Forbidden Fruit</title>
+    <author>Anonymous</author>
+    <downloads>2938 downloads</downloads>
+    <url>https://www.gutenberg.org/ebooks/28520</url>
+  </book>
+  <book>
+    <title>The Brothers Karamazov</title>
+    <author>Fyodor Dostoyevsky</author>
+    <downloads>2932 downloads</downloads>
+    <url>https://www.gutenberg.org/ebooks/28054</url>
+  </book>
+  <book>
+    <title>Don Quixote</title>
+    <author>Miguel de Cervantes Saavedra</author>
+    <downloads>2919 downloads</downloads>
+    <url>https://www.gutenberg.org/ebooks/996</url>
+  </book>
+  <book>
+    <title>Through the Looking-Glass</title>
+    <author>Lewis Carroll</author>
+    <downloads>2903 downloads</downloads>
+    <url>https://www.gutenberg.org/ebooks/12</url>
+  </book>
+  <book>
+    <title>Songs of Innocence, and Songs of Experience</title>
+    <author>William Blake</author>
+    <downloads>2864 downloads</downloads>
+    <url>https://www.gutenberg.org/ebooks/1934</url>
+  </book>
+  <book>
+    <title>Uncle Tom's Cabin</title>
+    <author>Harriet Beecher Stowe</author>
+    <downloads>2861 downloads</downloads>
+    <url>https://www.gutenberg.org/ebooks/203</url>
+  </book>
+  <book>
+    <title>Oliver Twist</title>
+    <author>Charles Dickens</author>
+    <downloads>2854 downloads</downloads>
+    <url>https://www.gutenberg.org/ebooks/730</url>
+  </book>
+  <book>
+    <title>The Hound of the Baskervilles</title>
+    <author>Arthur Conan Doyle</author>
+    <downloads>2850 downloads</downloads>
+    <url>https://www.gutenberg.org/ebooks/2852</url>
+  </book>
+  <book>
+    <title>Autobiography of Benjamin Franklin</title>
+    <author>Benjamin Franklin</author>
+    <downloads>2823 downloads</downloads>
+    <url>https://www.gutenberg.org/ebooks/20203</url>
+  </book>
+  <book>
+    <title>Josefine Mutzenbacher (German)</title>
+    <author>Felix Salten</author>
+    <downloads>2819 downloads</downloads>
+    <url>https://www.gutenberg.org/ebooks/31284</url>
+  </book>
+  <book>
+    <title>A Portrait of the Artist as a Young Man</title>
+    <author>James Joyce</author>
+    <downloads>2767 downloads</downloads>
+    <url>https://www.gutenberg.org/ebooks/4217</url>
+  </book>
+  <book>
+    <title>Calculus Made Easy
+</title>
+    <author>Silvanus P. Thompson</author>
+    <downloads>2746 downloads</downloads>
+    <url>https://www.gutenberg.org/ebooks/33283</url>
+  </book>
+  <book>
+    <title>A Christmas Carol in Prose; Being a Ghost Story of Christmas</title>
+    <author>Charles Dickens</author>
+    <downloads>2712 downloads</downloads>
+    <url>https://www.gutenberg.org/ebooks/46</url>
+  </book>
+  <book>
+    <title>Tractatus Logico-Philosophicus (German)</title>
+    <author>Ludwig Wittgenstein</author>
+    <downloads>2625 downloads</downloads>
+    <url>https://www.gutenberg.org/ebooks/5740</url>
+  </book>
+  <book>
+    <title>Anna Karenina</title>
+    <author>graf Leo Tolstoy</author>
+    <downloads>2622 downloads</downloads>
+    <url>https://www.gutenberg.org/ebooks/1399</url>
+  </book>
+  <book>
+    <title>Ethan Frome</title>
+    <author>Edith Wharton</author>
+    <downloads>2582 downloads</downloads>
+    <url>https://www.gutenberg.org/ebooks/4517</url>
+  </book>
+  <book>
+    <title>Manifest der Kommunistischen Partei. English</title>
+    <author>Karl Marx and Friedrich Engels</author>
+    <downloads>2574 downloads</downloads>
+    <url>https://www.gutenberg.org/ebooks/61</url>
+  </book>
+  <book>
+    <title>Around the World in Eighty Days</title>
+    <author>Jules Verne</author>
+    <downloads>2567 downloads</downloads>
+    <url>https://www.gutenberg.org/ebooks/103</url>
+  </book>
+  <book>
+    <title>How to Analyze People on Sight</title>
+    <author>Elsie Lincoln Benedict and Ralph Paine Benedict</author>
+    <downloads>2467 downloads</downloads>
+    <url>https://www.gutenberg.org/ebooks/30601</url>
+  </book>
+  <book>
+    <title>Walden, and On The Duty Of Civil Disobedience</title>
+    <author>Henry David Thoreau</author>
+    <downloads>2461 downloads</downloads>
+    <url>https://www.gutenberg.org/ebooks/205</url>
+  </book>
+  <book>
+    <title>Persuasion</title>
+    <author>Jane Austen</author>
+    <downloads>2460 downloads</downloads>
+    <url>https://www.gutenberg.org/ebooks/105</url>
+  </book>
+  <book>
+    <title>The Works of Edgar Allan Poe -- Volume 1</title>
+    <author>Edgar Allan Poe</author>
+    <downloads>2428 downloads</downloads>
+    <url>https://www.gutenberg.org/ebooks/2147</url>
+  </book>
+  <book>
+    <title>The War of the Worlds</title>
+    <author>H. G. Wells</author>
+    <downloads>2419 downloads</downloads>
+    <url>https://www.gutenberg.org/ebooks/36</url>
+  </book>
+  <book>
+    <title>Anne of Green Gables</title>
+    <author>L. M. Montgomery</author>
+    <downloads>2385 downloads</downloads>
+    <url>https://www.gutenberg.org/ebooks/45</url>
+  </book>
+  <book>
+    <title>The Mysterious Affair at Styles</title>
+    <author>Agatha Christie</author>
+    <downloads>2385 downloads</downloads>
+    <url>https://www.gutenberg.org/ebooks/863</url>
+  </book>
+  <book>
+    <title>Northanger Abbey</title>
+    <author>Jane Austen</author>
+    <downloads>2374 downloads</downloads>
+    <url>https://www.gutenberg.org/ebooks/121</url>
+  </book>
+  <book>
+    <title>The Tragedy of Romeo and Juliet</title>
+    <author>William Shakespeare</author>
+    <downloads>2365 downloads</downloads>
+    <url>https://www.gutenberg.org/ebooks/1112</url>
+  </book>
+  <book>
+    <title>The Tale of Peter Rabbit</title>
+    <author>Beatrix Potter</author>
+    <downloads>2358 downloads</downloads>
+    <url>https://www.gutenberg.org/ebooks/14838</url>
+  </book>
+  <book>
+    <title>Three Men in a Boat</title>
+    <author>Jerome K. Jerome</author>
+    <downloads>2341 downloads</downloads>
+    <url>https://www.gutenberg.org/ebooks/308</url>
+  </book>
+  <book>
+    <title>Madame Bovary</title>
+    <author>Gustave Flaubert</author>
+    <downloads>2320 downloads</downloads>
+    <url>https://www.gutenberg.org/ebooks/2413</url>
+  </book>
+  <book>
+    <title>Second Treatise of Government</title>
+    <author>John Locke</author>
+    <downloads>2306 downloads</downloads>
+    <url>https://www.gutenberg.org/ebooks/7370</url>
+  </book>
+  <book>
+    <title>David Copperfield</title>
+    <author>Charles Dickens</author>
+    <downloads>2301 downloads</downloads>
+    <url>https://www.gutenberg.org/ebooks/766</url>
+  </book>
+  <book>
+    <title>Democracy in America -- Volume 1</title>
+    <author>Alexis de Tocqueville</author>
+    <downloads>2275 downloads</downloads>
+    <url>https://www.gutenberg.org/ebooks/815</url>
+  </book>
+  <book>
+    <title>Democracy and Education: An Introduction to the Philosophy of Education</title>
+    <author>John Dewey</author>
+    <downloads>2262 downloads</downloads>
+    <url>https://www.gutenberg.org/ebooks/852</url>
+  </book>
+  <book>
+    <title>The History Of The Decline And Fall Of The Roman Empire</title>
+    <author>Edward Gibbon</author>
+    <downloads>2247 downloads</downloads>
+    <url>https://www.gutenberg.org/ebooks/25717</url>
+  </book>
+  <book>
+    <title>The Turn of the Screw</title>
+    <author>Henry James</author>
+    <downloads>2192 downloads</downloads>
+    <url>https://www.gutenberg.org/ebooks/209</url>
+  </book>
+  <book>
+    <title>Hard Times</title>
+    <author>Charles Dickens</author>
+    <downloads>2182 downloads</downloads>
+    <url>https://www.gutenberg.org/ebooks/786</url>
+  </book>
+  <book>
+    <title>The Jungle Book</title>
+    <author>Rudyard Kipling</author>
+    <downloads>2157 downloads</downloads>
+    <url>https://www.gutenberg.org/ebooks/35997</url>
+  </book>
+  <book>
+    <title>English Literature
+</title>
+    <author>William J. Long</author>
+    <downloads>2148 downloads</downloads>
+    <url>https://www.gutenberg.org/ebooks/10609</url>
+  </book>
+  <book>
+    <title>Mansfield Park</title>
+    <author>Jane Austen</author>
+    <downloads>2147 downloads</downloads>
+    <url>https://www.gutenberg.org/ebooks/141</url>
+  </book>
+  <book>
+    <title>The Works of Edgar Allan Poe -- Volume 2</title>
+    <author>Edgar Allan Poe</author>
+    <downloads>2123 downloads</downloads>
+    <url>https://www.gutenberg.org/ebooks/2148</url>
+  </book>
+</books>

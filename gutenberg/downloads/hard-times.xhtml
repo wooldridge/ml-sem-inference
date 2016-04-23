@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//WAPFORUM//DTD XHTML Mobile 1.2//EN" "http://www.openmobilealliance.org/tech/DTD/xhtml-mobile12.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en_US">
+
+
+<head>
+<style type="text/css">
+.icon { background: transparent url(/pics/sprite.png?1461185789) 0 0 no-repeat; }
+</style>
+<link rel="stylesheet" type="text/css" href="/css/pg-mobile-one.css?1461185789"/>
+<script type="application/javascript"><![CDATA[
+var mobile_search = "/ebooks/search.mobile/?query=";
+var json_search   = "/ebooks/suggest/";
+var msg_load_more = "Load More Results…";
+var do_animations = true;
+]]>
+</script>
+<script type="application/javascript" src="/js/pg-mobile-one.js?1461185789"/>
+<meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8"/>
+<meta http-equiv="Content-Style-Type" content="text/css"/>
+<meta http-equiv="Content-Language" content="en_US"/>
+<meta name="description" content="The Project Gutenberg ebook catalog for mobile devices."/>
+<meta name="keywords" content="free ebooks, free books, free audio books"/>
+<meta name="classification" content="public"/>
+<link rel="icon" href="/pics/favicon"/>
+<link rel="canonical" href="http://www.gutenberg.org/w/captcha/question/"/>
+<link rel="search" type="application/opensearchdescription+xml" title="Search Project Gutenberg" href="//www.gutenberg.org/catalog/osd-books.xml"/>
+<link rel="alternate nofollow" type="application/atom+xml;profile=opds-catalog" title="OPDS feed" href="/w/captcha/question/?format=opds"/>
+<link rel="apple-touch-icon" href="/pics/apple-touch-icon"/>
+<meta name="viewport" content="width=device-width"/>
+<title>Captcha</title>
+<style type="text/css">
+#recaptcha_response_field {
+margin-top: 1em;
+margin-bottom: 1em;
+width: 300px;
+}
+.recaptcha_only_if_incorrect_sol {
+color: red;
+}
+</style>
+<script type="application/javascript" src="//www.google.com/recaptcha/api/js/recaptcha_ajax.js"/>
+<script type="application/javascript">
+function on_recaptcha_loaded () {
+$('#need_javascript').hide ();
+Recaptcha.focus_response_field ();
+}
+var RecaptchaOptions = {
+theme: "custom",
+custom_theme_widget: "recaptcha_widget",
+callback: on_recaptcha_loaded
+};
+require (
+[
+'jquery',
+'jquery.cookie/jquery.cookie'
+],
+function (jquery, cookie) {
+if (jquery.cookie ('session_id')) {
+jquery ('#need_cookies').hide ();
+}
+Recaptcha.create ("6LfCKOwSAAAAAJL5QwhpdHZSr7kKr0b5_zl6HIXW", "id_captcha", RecaptchaOptions);
+});
+</script>
+</head>
+<body>
+<div class="content">
+<p>You have used Project Gutenberg quite a lot today or clicked through it really fast. To make sure you are human, we ask you to resolve this captcha:</p>
+<form method="post" action="/w/captcha/answer/">
+<div id="recaptcha_widget">
+<div id="recaptcha_image"/>
+<p class="recaptcha_only_if_incorrect_sol">Incorrect please try again</p>
+<p class="recaptcha_only_if_image">Enter the words you see:</p>
+<p class="recaptcha_only_if_audio">Enter the numbers you hear:</p>
+<input type="text" id="recaptcha_response_field" name="recaptcha_response_field"/>
+<input type="submit" name="SubmitButton" value="Submit"/>
+<input type="button" name="ReloadButton" value="Get another captcha" onclick="Recaptcha.reload ()"/>
+<input type="button" name="AudioButton" value="Get an audio captcha" class="recaptcha_only_if_image" onclick="Recaptcha.switch_type ('audio')"/>
+<input type="button" name="ImageButton" value="Get an image captcha" class="recaptcha_only_if_audio" onclick="Recaptcha.switch_type ('image')"/>
+<input type="button" name="HelpButton" value="Help" onclick="Recaptcha.showhelp ()"/>
+<p id="need_cookies">Project Gutenberg works better with cookies enabled.</p>
+</div>
+</form>
+<p id="need_javascript">You need javascript for this.</p>
+</div>
+<div class="footer">
+<div class="copyright">
+© 2003–2012 Project Gutenberg Literary Archive Foundation — All Rights Reserved.
+</div>
+</div>
+</body>
+</html>

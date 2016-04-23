@@ -1,0 +1,606 @@
+{
+  "books": {
+    "book": [
+      {
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "downloads": "24951",
+        "url": "http://www.gutenberg.org/ebooks/1342"
+      },
+      {
+        "title": "Alice&apos;s Adventures in Wonderland",
+        "author": "Lewis Carroll",
+        "downloads": "17135",
+        "url": "http://www.gutenberg.org/ebooks/11"
+      },
+      {
+        "title": "The Yellow Wallpaper",
+        "author": "Charlotte Perkins Gilman",
+        "downloads": "13413",
+        "url": "http://www.gutenberg.org/ebooks/1952"
+      },
+      {
+        "title": "The Importance of Being Earnest: A Trivial Comedy for Serious People",
+        "author": "Oscar Wilde",
+        "downloads": "12116",
+        "url": "http://www.gutenberg.org/ebooks/844"
+      },
+      {
+        "title": "Frankenstein; Or, The Modern Prometheus",
+        "author": "Mary Wollstonecraft Shelley",
+        "downloads": "12011",
+        "url": "http://www.gutenberg.org/ebooks/84"
+      },
+      {
+        "title": "Adventures of Huckleberry Finn",
+        "author": "Mark Twain",
+        "downloads": "11408",
+        "url": "http://www.gutenberg.org/ebooks/76"
+      },
+      {
+        "title": "Metamorphosis",
+        "author": "Franz Kafka",
+        "downloads": "11030",
+        "url": "http://www.gutenberg.org/ebooks/5200"
+      },
+      {
+        "title": "A Tale of Two Cities",
+        "author": "Charles Dickens",
+        "downloads": "9532",
+        "url": "http://www.gutenberg.org/ebooks/98"
+      },
+      {
+        "title": "The Adventures of Sherlock Holmes",
+        "author": "Arthur Conan Doyle",
+        "downloads": "9218",
+        "url": "http://www.gutenberg.org/ebooks/1661"
+      },
+      {
+        "title": "The Adventures of Tom Sawyer",
+        "author": "Mark Twain",
+        "downloads": "9058",
+        "url": "http://www.gutenberg.org/ebooks/74"
+      },
+      {
+        "title": "The Jungle Book",
+        "author": "Rudyard Kipling",
+        "downloads": "8994",
+        "url": "http://www.gutenberg.org/ebooks/236"
+      },
+      {
+        "title": "A Doll&apos;s House : a play",
+        "author": "Henrik Ibsen",
+        "downloads": "8796",
+        "url": "http://www.gutenberg.org/ebooks/2542"
+      },
+      {
+        "title": "Narrative of the Life of Frederick Douglass, an American Slave",
+        "author": "Frederick Douglass",
+        "downloads": "8524",
+        "url": "http://www.gutenberg.org/ebooks/23"
+      },
+      {
+        "title": "Struwwelpeter: Merry Stories and Funny Pictures",
+        "author": "Heinrich Hoffmann",
+        "downloads": "8490",
+        "url": "http://www.gutenberg.org/ebooks/12116"
+      },
+      {
+        "title": "Dracula",
+        "author": "Bram Stoker",
+        "downloads": "7981",
+        "url": "http://www.gutenberg.org/ebooks/345"
+      },
+      {
+        "title": "Moby Dick; Or, The Whale",
+        "author": "Herman Melville",
+        "downloads": "7951",
+        "url": "http://www.gutenberg.org/ebooks/2701"
+      },
+      {
+        "title": "Great Expectations",
+        "author": "Charles Dickens",
+        "downloads": "7596",
+        "url": "http://www.gutenberg.org/ebooks/1400"
+      },
+      {
+        "title": "Ulysses",
+        "author": "James Joyce",
+        "downloads": "7452",
+        "url": "http://www.gutenberg.org/ebooks/4300"
+      },
+      {
+        "title": "The Picture of Dorian Gray",
+        "author": "Oscar Wilde",
+        "downloads": "7286",
+        "url": "http://www.gutenberg.org/ebooks/174"
+      },
+      {
+        "title": "Il Principe. English",
+        "author": "Niccolo Machiavelli",
+        "downloads": "7242",
+        "url": "http://www.gutenberg.org/ebooks/1232"
+      },
+      {
+        "title": "The Kama Sutra of Vatsyayana",
+        "author": "Vatsyayana",
+        "downloads": "7113",
+        "url": "http://www.gutenberg.org/ebooks/27827"
+      },
+      {
+        "title": "Emma",
+        "author": "Jane Austen",
+        "downloads": "6925",
+        "url": "http://www.gutenberg.org/ebooks/158"
+      },
+      {
+        "title": "War and Peace",
+        "author": "graf Leo Tolstoy",
+        "downloads": "6867",
+        "url": "http://www.gutenberg.org/ebooks/2600"
+      },
+      {
+        "title": "A Modest Proposal",
+        "author": "Jonathan Swift",
+        "downloads": "6705",
+        "url": "http://www.gutenberg.org/ebooks/1080"
+      },
+      {
+        "title": "Leaves of Grass",
+        "author": "Walt Whitman",
+        "downloads": "6381",
+        "url": "http://www.gutenberg.org/ebooks/1322"
+      },
+      {
+        "title": "Grimms&apos; Fairy Tales",
+        "author": "Jacob Grimm and Wilhelm Grimm",
+        "downloads": "6242",
+        "url": "http://www.gutenberg.org/ebooks/2591"
+      },
+      {
+        "title": "Jane Eyre: An Autobiography",
+        "author": "Charlotte Bronte",
+        "downloads": "5844",
+        "url": "http://www.gutenberg.org/ebooks/1260"
+      },
+      {
+        "title": "Dubliners",
+        "author": "James Joyce",
+        "downloads": "5616",
+        "url": "http://www.gutenberg.org/ebooks/2814"
+      },
+      {
+        "title": "Beowulf",
+        "author": {},
+        "downloads": "5211",
+        "url": "http://www.gutenberg.org/ebooks/16328"
+      },
+      {
+        "title": "The Strange Case of Dr. Jekyll and Mr. Hyde",
+        "author": "Robert Louis Stevenson",
+        "downloads": "5189",
+        "url": "http://www.gutenberg.org/ebooks/42"
+      },
+      {
+        "title": "The Count of Monte Cristo, Illustrated",
+        "author": "Alexandre Dumas",
+        "downloads": "5167",
+        "url": "http://www.gutenberg.org/ebooks/1184"
+      },
+      {
+        "title": "The Romance of Lust: A Classic Victorian erotic novel",
+        "author": "Anonymous",
+        "downloads": "5136",
+        "url": "http://www.gutenberg.org/ebooks/30254"
+      },
+      {
+        "title": "Heart of Darkness",
+        "author": "Joseph Conrad",
+        "downloads": "5089",
+        "url": "http://www.gutenberg.org/ebooks/219"
+      },
+      {
+        "title": "Les Miserables",
+        "author": "Victor Hugo",
+        "downloads": "4894",
+        "url": "http://www.gutenberg.org/ebooks/135"
+      },
+      {
+        "title": "Treasure Island",
+        "author": "Robert Louis Stevenson",
+        "downloads": "4812",
+        "url": "http://www.gutenberg.org/ebooks/120"
+      },
+      {
+        "title": "Sense and Sensibility",
+        "author": "Jane Austen",
+        "downloads": "4786",
+        "url": "http://www.gutenberg.org/ebooks/161"
+      },
+      {
+        "title": "Wuthering Heights",
+        "author": "Emily Bronte",
+        "downloads": "4710",
+        "url": "http://www.gutenberg.org/ebooks/768"
+      },
+      {
+        "title": "My Secret Life, Volumes I. to III.",
+        "author": "Anonymous",
+        "downloads": "4542",
+        "url": "http://www.gutenberg.org/ebooks/30360"
+      },
+      {
+        "title": "Peter Pan",
+        "author": "J. M. Barrie",
+        "downloads": "4496",
+        "url": "http://www.gutenberg.org/ebooks/16"
+      },
+      {
+        "title": "The Divine Comedy by Dante, Illustrated",
+        "author": "Dante Alighieri",
+        "downloads": "4436",
+        "url": "http://www.gutenberg.org/ebooks/8800"
+      },
+      {
+        "title": "Leviathan",
+        "author": "Thomas Hobbes",
+        "downloads": "4419",
+        "url": "http://www.gutenberg.org/ebooks/3207"
+      },
+      {
+        "title": "Siddhartha",
+        "author": "Hermann Hesse",
+        "downloads": "4061",
+        "url": "http://www.gutenberg.org/ebooks/2500"
+      },
+      {
+        "title": "Pygmalion",
+        "author": "Bernard Shaw",
+        "downloads": "4055",
+        "url": "http://www.gutenberg.org/ebooks/3825"
+      },
+      {
+        "title": "The Awakening, and Selected Short Stories",
+        "author": "Kate Chopin",
+        "downloads": "4012",
+        "url": "http://www.gutenberg.org/ebooks/160"
+      },
+      {
+        "title": "The Complete Works of William Shakespeare",
+        "author": "William Shakespeare",
+        "downloads": "3986",
+        "url": "http://www.gutenberg.org/ebooks/100"
+      },
+      {
+        "title": "The Republic",
+        "author": "Plato",
+        "downloads": "3906",
+        "url": "http://www.gutenberg.org/ebooks/1497"
+      },
+      {
+        "title": "A Study in Scarlet",
+        "author": "Arthur Conan Doyle",
+        "downloads": "3810",
+        "url": "http://www.gutenberg.org/ebooks/244"
+      },
+      {
+        "title": "Prestuplenie i nakazanie. English",
+        "author": "Fyodor Dostoyevsky",
+        "downloads": "3713",
+        "url": "http://www.gutenberg.org/ebooks/2554"
+      },
+      {
+        "title": "On Liberty",
+        "author": "John Stuart Mill",
+        "downloads": "3697",
+        "url": "http://www.gutenberg.org/ebooks/34901"
+      },
+      {
+        "title": "Essays of Michel de Montaigne -- Complete",
+        "author": "Michel de Montaigne",
+        "downloads": "3650",
+        "url": "http://www.gutenberg.org/ebooks/3600"
+      },
+      {
+        "title": "Gulliver&apos;s Travels into Several Remote Nations of the World",
+        "author": "Jonathan Swift",
+        "downloads": "3509",
+        "url": "http://www.gutenberg.org/ebooks/829"
+      },
+      {
+        "title": "The Time Machine",
+        "author": "H. G. Wells",
+        "downloads": "3289",
+        "url": "http://www.gutenberg.org/ebooks/35"
+      },
+      {
+        "title": "The Life and Adventures of Robinson Crusoe",
+        "author": "Daniel Defoe",
+        "downloads": "3276",
+        "url": "http://www.gutenberg.org/ebooks/521"
+      },
+      {
+        "title": "Candide",
+        "author": "Voltaire",
+        "downloads": "3269",
+        "url": "http://www.gutenberg.org/ebooks/19942"
+      },
+      {
+        "title": "The Iliad",
+        "author": "Homer",
+        "downloads": "3230",
+        "url": "http://www.gutenberg.org/ebooks/6130"
+      },
+      {
+        "title": "Heart of Darkness",
+        "author": "Joseph Conrad",
+        "downloads": "3224",
+        "url": "http://www.gutenberg.org/ebooks/526"
+      },
+      {
+        "title": "The Wonderful Wizard of Oz",
+        "author": "L. Frank Baum",
+        "downloads": "3170",
+        "url": "http://www.gutenberg.org/ebooks/55"
+      },
+      {
+        "title": "Beyond Good and Evil",
+        "author": "Friedrich Wilhelm Nietzsche",
+        "downloads": "3142",
+        "url": "http://www.gutenberg.org/ebooks/4363"
+      },
+      {
+        "title": "The King James Version of the Bible",
+        "author": {},
+        "downloads": "2947",
+        "url": "http://www.gutenberg.org/ebooks/10"
+      },
+      {
+        "title": "Forbidden Fruit",
+        "author": "Anonymous",
+        "downloads": "2938",
+        "url": "http://www.gutenberg.org/ebooks/28520"
+      },
+      {
+        "title": "The Brothers Karamazov",
+        "author": "Fyodor Dostoyevsky",
+        "downloads": "2932",
+        "url": "http://www.gutenberg.org/ebooks/28054"
+      },
+      {
+        "title": "Don Quixote",
+        "author": "Miguel de Cervantes Saavedra",
+        "downloads": "2919",
+        "url": "http://www.gutenberg.org/ebooks/996"
+      },
+      {
+        "title": "Through the Looking-Glass",
+        "author": "Lewis Carroll",
+        "downloads": "2903",
+        "url": "http://www.gutenberg.org/ebooks/12"
+      },
+      {
+        "title": "Songs of Innocence, and Songs of Experience",
+        "author": "William Blake",
+        "downloads": "2864",
+        "url": "http://www.gutenberg.org/ebooks/1934"
+      },
+      {
+        "title": "Uncle Tom&apos;s Cabin",
+        "author": "Harriet Beecher Stowe",
+        "downloads": "2861",
+        "url": "http://www.gutenberg.org/ebooks/203"
+      },
+      {
+        "title": "Oliver Twist",
+        "author": "Charles Dickens",
+        "downloads": "2854",
+        "url": "http://www.gutenberg.org/ebooks/730"
+      },
+      {
+        "title": "The Hound of the Baskervilles",
+        "author": "Arthur Conan Doyle",
+        "downloads": "2850",
+        "url": "http://www.gutenberg.org/ebooks/2852"
+      },
+      {
+        "title": "Autobiography of Benjamin Franklin",
+        "author": "Benjamin Franklin",
+        "downloads": "2823",
+        "url": "http://www.gutenberg.org/ebooks/20203"
+      },
+      {
+        "title": "Josefine Mutzenbacher &#40;German&#41;",
+        "author": "Felix Salten",
+        "downloads": "2819",
+        "url": "http://www.gutenberg.org/ebooks/31284"
+      },
+      {
+        "title": "A Portrait of the Artist as a Young Man",
+        "author": "James Joyce",
+        "downloads": "2767",
+        "url": "http://www.gutenberg.org/ebooks/4217"
+      },
+      {
+        "title": "Calculus Made Easy",
+        "author": "Silvanus P. Thompson",
+        "downloads": "2746",
+        "url": "http://www.gutenberg.org/ebooks/33283"
+      },
+      {
+        "title": "A Christmas Carol in Prose; Being a Ghost Story of Christmas",
+        "author": "Charles Dickens",
+        "downloads": "2712",
+        "url": "http://www.gutenberg.org/ebooks/46"
+      },
+      {
+        "title": "Tractatus Logico-Philosophicus &#40;German&#41;",
+        "author": "Ludwig Wittgenstein",
+        "downloads": "2625",
+        "url": "http://www.gutenberg.org/ebooks/5740"
+      },
+      {
+        "title": "Anna Karenina",
+        "author": "graf Leo Tolstoy",
+        "downloads": "2622",
+        "url": "http://www.gutenberg.org/ebooks/1399"
+      },
+      {
+        "title": "Ethan Frome",
+        "author": "Edith Wharton",
+        "downloads": "2582",
+        "url": "http://www.gutenberg.org/ebooks/4517"
+      },
+      {
+        "title": "Manifest der Kommunistischen Partei. English",
+        "author": "Karl Marx and Friedrich Engels",
+        "downloads": "2574",
+        "url": "http://www.gutenberg.org/ebooks/61"
+      },
+      {
+        "title": "Around the World in Eighty Days",
+        "author": "Jules Verne",
+        "downloads": "2567",
+        "url": "http://www.gutenberg.org/ebooks/103"
+      },
+      {
+        "title": "How to Analyze People on Sight",
+        "author": "Elsie Lincoln Benedict and Ralph Paine Benedict",
+        "downloads": "2467",
+        "url": "http://www.gutenberg.org/ebooks/30601"
+      },
+      {
+        "title": "Walden, and On The Duty Of Civil Disobedience",
+        "author": "Henry David Thoreau",
+        "downloads": "2461",
+        "url": "http://www.gutenberg.org/ebooks/205"
+      },
+      {
+        "title": "Persuasion",
+        "author": "Jane Austen",
+        "downloads": "2460",
+        "url": "http://www.gutenberg.org/ebooks/105"
+      },
+      {
+        "title": "The Works of Edgar Allan Poe -- Volume 1",
+        "author": "Edgar Allan Poe",
+        "downloads": "2428",
+        "url": "http://www.gutenberg.org/ebooks/2147"
+      },
+      {
+        "title": "The War of the Worlds",
+        "author": "H. G. Wells",
+        "downloads": "2419",
+        "url": "http://www.gutenberg.org/ebooks/36"
+      },
+      {
+        "title": "Anne of Green Gables",
+        "author": "L. M. Montgomery",
+        "downloads": "2385",
+        "url": "http://www.gutenberg.org/ebooks/45"
+      },
+      {
+        "title": "The Mysterious Affair at Styles",
+        "author": "Agatha Christie",
+        "downloads": "2385",
+        "url": "http://www.gutenberg.org/ebooks/863"
+      },
+      {
+        "title": "Northanger Abbey",
+        "author": "Jane Austen",
+        "downloads": "2374",
+        "url": "http://www.gutenberg.org/ebooks/121"
+      },
+      {
+        "title": "The Tragedy of Romeo and Juliet",
+        "author": "William Shakespeare",
+        "downloads": "2365",
+        "url": "http://www.gutenberg.org/ebooks/1112"
+      },
+      {
+        "title": "The Tale of Peter Rabbit",
+        "author": "Beatrix Potter",
+        "downloads": "2358",
+        "url": "http://www.gutenberg.org/ebooks/14838"
+      },
+      {
+        "title": "Three Men in a Boat",
+        "author": "Jerome K. Jerome",
+        "downloads": "2341",
+        "url": "http://www.gutenberg.org/ebooks/308"
+      },
+      {
+        "title": "Madame Bovary",
+        "author": "Gustave Flaubert",
+        "downloads": "2320",
+        "url": "http://www.gutenberg.org/ebooks/2413"
+      },
+      {
+        "title": "Second Treatise of Government",
+        "author": "John Locke",
+        "downloads": "2306",
+        "url": "http://www.gutenberg.org/ebooks/7370"
+      },
+      {
+        "title": "David Copperfield",
+        "author": "Charles Dickens",
+        "downloads": "2301",
+        "url": "http://www.gutenberg.org/ebooks/766"
+      },
+      {
+        "title": "Democracy in America -- Volume 1",
+        "author": "Alexis de Tocqueville",
+        "downloads": "2275",
+        "url": "http://www.gutenberg.org/ebooks/815"
+      },
+      {
+        "title": "Democracy and Education: An Introduction to the Philosophy of Education",
+        "author": "John Dewey",
+        "downloads": "2262",
+        "url": "http://www.gutenberg.org/ebooks/852"
+      },
+      {
+        "title": "The History Of The Decline And Fall Of The Roman Empire",
+        "author": "Edward Gibbon",
+        "downloads": "2247",
+        "url": "http://www.gutenberg.org/ebooks/25717"
+      },
+      {
+        "title": "The Turn of the Screw",
+        "author": "Henry James",
+        "downloads": "2192",
+        "url": "http://www.gutenberg.org/ebooks/209"
+      },
+      {
+        "title": "Hard Times",
+        "author": "Charles Dickens",
+        "downloads": "2182",
+        "url": "http://www.gutenberg.org/ebooks/786"
+      },
+      {
+        "title": "The Jungle Book",
+        "author": "Rudyard Kipling",
+        "downloads": "2157",
+        "url": "http://www.gutenberg.org/ebooks/35997"
+      },
+      {
+        "title": "English Literature",
+        "author": "William J. Long",
+        "downloads": "2148",
+        "url": "http://www.gutenberg.org/ebooks/10609"
+      },
+      {
+        "title": "Mansfield Park",
+        "author": "Jane Austen",
+        "downloads": "2147",
+        "url": "http://www.gutenberg.org/ebooks/141"
+      },
+      {
+        "title": "The Works of Edgar Allan Poe -- Volume 2",
+        "author": "Edgar Allan Poe",
+        "downloads": "2123",
+        "url": "http://www.gutenberg.org/ebooks/2148"
+      }
+    ]
+  }
+}
