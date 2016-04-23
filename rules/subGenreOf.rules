@@ -1,0 +1,11 @@
+tbox {
+  ?g1 <subGenreOf> ?g2 .
+}
+
+rule "sub genre" construct {
+  ?x <genre> ?g2
+} {
+  ?x <genre> ?g1 .
+  ?g1 <subGenreOf> ?g2 .
+  filter(?g1!=?g2)
+}
