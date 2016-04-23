@@ -1,0 +1,36 @@
+{
+  "author" : {
+    "http://www.w3.org/2000/01/rdf-schema#subPropertyOf" : [ {
+      "type" : "uri",
+      "value" : "creator"
+    } ]
+  },
+  "science_fiction" : {
+    "subGenreOf" : [ {
+      "type" : "uri",
+      "value" : "fiction"
+    } ]
+  },
+  "autobiography" : {
+    "subGenreOf" : [ {
+      "type" : "uri",
+      "value" : "non-fiction"
+    } ]
+  },
+  "political_science" : {
+    "subGenreOf" : [ {
+      "type" : "uri",
+      "value" : "science"
+    },{
+      "type" : "uri",
+      "value" : "non-fiction"
+    } ]
+  },
+  "science" : {
+    "subGenreOf" : [ {
+      "type" : "uri",
+      "value" : "non-fiction"
+    } ]
+  }
+}
+
