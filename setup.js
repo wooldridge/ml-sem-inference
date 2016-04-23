@@ -83,11 +83,48 @@ function createREST() {
   rp(options)
     .then(function (parsedBody) {
       console.log('REST instance created at port: ' + config.restSetup["rest-api"]["port"]);
-      loadData();
+      loadTransforms();
     })
     .catch(function (err) {
       console.log(JSON.stringify(err, null, 2));
     });
+}
+
+var transformsPath = config.path + 'transforms/'
+    transformsFiles = fs.readdirSync(transformsPath),
+    count = 0;
+
+function loadTransforms() {
+
+  var currFile = transformsFiles.shift();
+  count++;
+  var transform;
+  transform = fs.readFileSync(transformsPath + currFile, {encoding: 'utf8'});
+
+  var db = marklogic.createDatabaseClient({
+    host: config.host,
+    port: config.database.port,
+    user: config.auth.user,
+    password: config.auth.pass,
+    authType: 'digest'
+  });
+
+  db.config.transforms.write({
+    name: currFile,
+    format: 'xslt',
+    source: transform
+  }).result(
+    function(response) {
+      if (transformsFiles.length > 0) {
+        loadTransforms();
+      } else {
+        console.log('Transforms loaded');
+        loadData();
+      }
+    },
+    function(error) { console.log(JSON.stringify(error)); }
+  );
+
 }
 
 var dataPath = config.path + 'books/'
@@ -102,7 +139,7 @@ function loadData() {
 
   var options = {
     method: 'PUT',
-    uri: 'http://' + config.host + ':' + config.restSetup["rest-api"]["port"] + '/v1/documents?database=' + config.databaseSetup["database-name"] + '&uri=/' + currFile,
+    uri: 'http://' + config.host + ':' + config.restSetup["rest-api"]["port"] + '/v1/documents?database=' + config.databaseSetup["database-name"] + '&uri=/' + currFile + '&transform=book.xsl',
     body: buffer,
     auth: config.auth
   };
@@ -121,16 +158,16 @@ function loadData() {
     });
 }
 
+var triplesPath = config.path + 'triples/'
+    triplesFiles = fs.readdirSync(triplesPath),
+    count = 0;
+
 function loadTriples() {
 
-  var triples = {
-    'http://example.org/ontology/creator' : {
-      'http://www.w3.org/2002/07/owl#equivalentProperty' : [ {
-        'type' : 'uri',
-        'value' : 'http://example.org/ontology/author'
-      } ]
-    }
-  };
+  var currFile = triplesFiles.shift();
+  count++;
+  var buffer;
+  buffer = fs.readFileSync(triplesPath + currFile);
 
   var db = marklogic.createDatabaseClient({
     host: config.host,
@@ -140,51 +177,59 @@ function loadTriples() {
     authType: 'digest'
   });
 
-  db.graphs.write('application/rdf+json', triples).result(
+  db.graphs.write({
+    contentType: 'application/rdf+json',
+    data: buffer
+  }).result(
     function(response) {
-      if (response.defaultGraph) {
-        console.log('Loaded into default graph');
+      if (triplesFiles.length > 0) {
+        loadTriples();
       } else {
-        console.log('Loaded into graph ' + response.graph);
-      };
-      //loadTriples2();
+        console.log('Triples loaded');
+        loadRules();
+      }
     },
     function(error) { console.log(JSON.stringify(error)); }
   );
 
 }
 
-function loadTriples2() {
+var rulesPath = config.path + 'rules/'
+    rulesFiles = fs.readdirSync(rulesPath),
+    count = 0;
 
-  var triples = {
-    'http://example.org/ontology/creator' : {
-      'http://www.w3.org/2000/01/rdf-schema#subPropertyOf' : [ {
-        'type' : 'uri',
-        'value' : 'http://example.org/ontology/author'
-      } ]
-    }
-  };
+function loadRules() {
+
+  var currFile = rulesFiles.shift();
+  count++;
+  var buffer;
+  buffer = fs.readFileSync(rulesPath + currFile);
 
   var db = marklogic.createDatabaseClient({
     host: config.host,
     port: config.database.port,
+    database: 'Schemas',
     user: config.auth.user,
     password: config.auth.pass,
     authType: 'digest'
   });
 
-  db.graphs.write('application/rdf+json', triples).result(
+  db.documents.write({
+    uri: '/' + currFile,
+    content: buffer
+  }).result(
     function(response) {
-      if (response.defaultGraph) {
-        console.log('Loaded into default graph');
+      if (rulesFiles.length > 0) {
+        loadRules();
       } else {
-        console.log('Loaded into graph ' + response.graph);
-      };
+        console.log('Rules loaded');
+      }
     },
     function(error) { console.log(JSON.stringify(error)); }
   );
 
 }
+
 
 function start() {
   createDatabase();
