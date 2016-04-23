@@ -1,8 +1,11 @@
 <book>
   <title>Don Quixote</title>
-  <author>Miguel de Cervantes</author>
+  <creator>Miguel de Cervantes</creator>
   <language>Spanish</language>
+  <setting>La Mancha</setting>
+  <genre>fiction</genre>
   <genre>burlesque</genre>
   <date>1605</date>
   <url>https://en.wikipedia.org/wiki/Don_Quixote</url>
+  <url>https://www.gutenberg.org/ebooks/996</url>
 </book>

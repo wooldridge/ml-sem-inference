@@ -1,8 +1,11 @@
 <book>
-  <title>Ulysses</title>
-  <author>James Joyce</author>
-  <lang>English</lang>
-  <genre>modernist novel</genre>
-  <date>1922</date>
-  <url>https://en.wikipedia.org/wiki/Ulysses_(novel)</url>
+  <title>Twenty Thousand Leagues Under the Sea</title>
+  <author>Jules Verne</author>
+  <language>French</language>
+  <setting>Atlantic Ocean</setting>
+  <genre>science fiction</genre>
+  <genre>adventure novel</genre>
+  <date>1870</date>
+  <url>https://en.wikipedia.org/wiki/Twenty_Thousand_Leagues_Under_the_Sea</url>
+  <url>https://www.gutenberg.org/ebooks/164</url>
 </book>

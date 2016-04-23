@@ -2,8 +2,10 @@
   <title>The Hunchback of Notre-Dame</title>
   <author>Victor Hugo</author>
   <language>French</language>
+  <setting>Paris</setting>
   <genre>romanticism</genre>
   <genre>gothic fiction</genre>
   <date>1831</date>
   <url>https://en.wikipedia.org/wiki/The_Hunchback_of_Notre-Dame</url>
+  <url>https://www.gutenberg.org/ebooks/2610</url>
 </book>

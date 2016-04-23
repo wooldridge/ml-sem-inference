@@ -1,31 +1,9 @@
 <book>
   <title>Brave New World</title>
-  <author>Aldous Huxley</author>
+  <creator>Aldous Huxley</creator>
   <language>English</language>
   <genre>science fiction</genre>
   <genre>dystopian fiction</genre>
   <date>1932</date>
   <url>https://en.wikipedia.org/wiki/Brave_New_World</url>
-  <sem:triples xmlns:sem="http://marklogic.com/semantics" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
-    <sem:triple>
-     <sem:subject>http://example.org/person/Aldous_Huxley</sem:subject>
-     <sem:predicate>http://example.org/ontology/creator</sem:predicate>
-     <sem:object>http://example.org/book/Brave_New_World</sem:object>
-    </sem:triple>
-    <sem:triple>
-     <sem:subject>http://example.org/person/Aldous_Huxley</sem:subject>
-     <sem:predicate>http://example.org/ontology/label</sem:predicate>
-     <sem:object rdf:datatype="xsd:string">Aldous Huxley</sem:object>
-    </sem:triple>
-    <sem:triple>
-     <sem:subject>http://example.org/book/Brave_New_World</sem:subject>
-     <sem:predicate>http://example.org/ontology/label</sem:predicate>
-     <sem:object rdf:datatype="xsd:string">Brave New World</sem:object>
-    </sem:triple>
-    <sem:triple>
-      <sem:subject>http://example.org/ontology/creator</sem:subject>
-      <sem:predicate>http://www.w3.org/2002/07/owl/equivalentProperty</sem:predicate>
-      <sem:object>http://example.org/ontology/author</sem:object>
-    </sem:triple>
-  </sem:triples>
 </book>
